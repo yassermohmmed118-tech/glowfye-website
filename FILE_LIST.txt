@@ -1,0 +1,229 @@
+Glowfye Site - Complete File List
+==================================
+glowfye_site/FILE_LIST.txt
+glowfye_site/README.md
+glowfye_site/assets.txt
+glowfye_site/css/glowfye.webflow.shared.025b3c252.css
+glowfye_site/css/glowfye.webflow.shared.025b3c252.offline.css
+glowfye_site/download.py
+glowfye_site/download_pages.py
+glowfye_site/extra_css_assets.txt
+glowfye_site/extract_all_assets.py
+glowfye_site/fonts/67c6b5d07ed6d0236f35b421_Inter-VariableFont_opsz,wght.ttf
+glowfye_site/fonts/67c6b5d07ed6d0236f35b42f_GeneralSans-Variable.ttf
+glowfye_site/fonts/67c6b5d07ed6d0236f35b44f_GeneralSans-Variable.ttf
+glowfye_site/fonts/67c6b5d07ed6d0236f35b450_GeneralSans-Variable.ttf
+glowfye_site/fonts/67c6b5d07ed6d0236f35b451_Inter-VariableFont_opsz,wght.ttf
+glowfye_site/fonts/67c6b5d07ed6d0236f35b452_Inter-VariableFont_opsz,wght.ttf
+glowfye_site/fonts/67c6c31e0fcdabe85dc812f4_Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf
+glowfye_site/fonts/67c6c44519a5626e94922638_Outfit-VariableFont_wght.ttf
+glowfye_site/fonts/67cea01c3774fb2de174a9c0_Fraunces_72pt-Regular.ttf
+glowfye_site/images/67c6b5d07ed6d0236f35b42e_placeholder-image-p-1080.webp
+glowfye_site/images/67c6b5d07ed6d0236f35b42e_placeholder-image-p-500.webp
+glowfye_site/images/67c6b5d07ed6d0236f35b42e_placeholder-image-p-800.webp
+glowfye_site/images/67c6b5d07ed6d0236f35b42e_placeholder-image.webp
+glowfye_site/images/67c6b5d07ed6d0236f35b44a_check-circle.svg
+glowfye_site/images/67c6b5d07ed6d0236f35b44b_alert-circle.svg
+glowfye_site/images/67c7ce62995c2d417c4ed45c_brand logo.svg
+glowfye_site/images/67c9297c4360a33b17c5dc33_hero visual element.svg
+glowfye_site/images/67c92b11e846f9413f9bb399_hero leave visual element.svg
+glowfye_site/images/67c931be16c0fc1542e68b67_hero main image.avif
+glowfye_site/images/67c93ee95b5ccf880f884f3f_e216c789000a6c8663eb96a79d026309_hero image visual.avif
+glowfye_site/images/67c940aea3584f0c8f100c3f_hero image visual 2.png
+glowfye_site/images/67ce80543754c5ba130b7ab4_logo four.svg
+glowfye_site/images/67ce80543bd02d41e49a7ed0_logo one.svg
+glowfye_site/images/67ce8054655af5377581efbb_logo two.svg
+glowfye_site/images/67ce8054f71b4b2d91e535b6_logo three.svg
+glowfye_site/images/67ce8aa9fc513aa84975e83b_aaa4cfc4e6700d903e7dbc218f3fcb37_Ellipse 9-p-1080.webp
+glowfye_site/images/67ce8aa9fc513aa84975e83b_aaa4cfc4e6700d903e7dbc218f3fcb37_Ellipse 9-p-1600.webp
+glowfye_site/images/67ce8aa9fc513aa84975e83b_aaa4cfc4e6700d903e7dbc218f3fcb37_Ellipse 9-p-2000.webp
+glowfye_site/images/67ce8aa9fc513aa84975e83b_aaa4cfc4e6700d903e7dbc218f3fcb37_Ellipse 9-p-2600.webp
+glowfye_site/images/67ce8aa9fc513aa84975e83b_aaa4cfc4e6700d903e7dbc218f3fcb37_Ellipse 9-p-500.webp
+glowfye_site/images/67ce8aa9fc513aa84975e83b_aaa4cfc4e6700d903e7dbc218f3fcb37_Ellipse 9-p-800.webp
+glowfye_site/images/67ce8aa9fc513aa84975e83b_aaa4cfc4e6700d903e7dbc218f3fcb37_Ellipse 9.webp
+glowfye_site/images/67ce9b0f0cf355d909727f95_Value item imge one.svg
+glowfye_site/images/67ce9f4e97057480e8fe3a1d_Value item imge two.svg
+glowfye_site/images/67ce9f63fc513aa849899e0a_Value item imge three.svg
+glowfye_site/images/67d14ea55da885d7ba0c5232_story heading span image 2.png
+glowfye_site/images/67d14fafc2c182884954684b_story heading span image 3.png
+glowfye_site/images/67d27df9db42d7c64e07378e_our story hero visual.svg
+glowfye_site/images/67d27f0fbd91a72b56babc60_our story hero visual two.svg
+glowfye_site/images/67d295fcb226c78e63d56aa6_our story text span image.png
+glowfye_site/images/67d3ad025add53cbbbe016a3_timeline image one-p-500.png
+glowfye_site/images/67d3ad025add53cbbbe016a3_timeline image one.png
+glowfye_site/images/67d3c7f73b7f3deeb94642d9_founder small image.avif
+glowfye_site/images/67d3ca3017f5736a76a9e873_founder main image-p-500.avif
+glowfye_site/images/67d3ca3017f5736a76a9e873_founder main image.avif
+glowfye_site/images/67d3ca940cae67900819337b_founder visual element.svg
+glowfye_site/images/67d7a467c5c4b283a4fbf41c_free-delivery feature icon.svg
+glowfye_site/images/67d7a47a228b6888764d9377_product-return icon.svg
+glowfye_site/images/67d7b0e082fc5465997e5d44_support icon.svg
+glowfye_site/images/67d7b2d1b1eecae215234f6c_vision mission image visual-p-500.avif
+glowfye_site/images/67d7b2d1b1eecae215234f6c_vision mission image visual.avif
+glowfye_site/images/67d9073ad5094e27918ef7b2_Star Icon.svg
+glowfye_site/images/67db9448df46c800807ab56b_client testimony section image-p-500.avif
+glowfye_site/images/67db9448df46c800807ab56b_client testimony section image.avif
+glowfye_site/images/67dba4abf78e5ed5d5563175_Visual Shape.svg
+glowfye_site/images/67dbebd4bbbdccc8b8669abb_blog richtext image.avif
+glowfye_site/images/67dcea5bf20a97dbc6d1c84b_Group 427319436.svg
+glowfye_site/images/67e0daa38f5a5b6b5981e449_hero-v2 main image-p-500.avif
+glowfye_site/images/67e0daa38f5a5b6b5981e449_hero-v2 main image-p-800.avif
+glowfye_site/images/67e0daa38f5a5b6b5981e449_hero-v2 main image.avif
+glowfye_site/images/67e0edb13d19a3cabecfd67e_Our Story Home V2-p-500.png
+glowfye_site/images/67e0edb13d19a3cabecfd67e_Our Story Home V2.png
+glowfye_site/images/67e0f4db97c04830f819cbb8_our-story-visual-elements.svg
+glowfye_site/images/67e0f9a383618f23b9bd36aa_our-story-visual-image.png
+glowfye_site/images/67e0fc1d43cf170bd051f96a_featured-product-visual-element.svg
+glowfye_site/images/67e115dd5f800d9475d8005e_our feature item icon.svg
+glowfye_site/images/67e1160549ae823cec3bc8ac_our feature item icon 2.svg
+glowfye_site/images/67e116324eb8a045b37cee7e_our feature item icon 3.svg
+glowfye_site/images/67e12ac4ade0ad8108cfee71_Ticker Image-p-500.avif
+glowfye_site/images/67e12ac4ade0ad8108cfee71_Ticker Image-p-800.avif
+glowfye_site/images/67e12ac4ade0ad8108cfee71_Ticker Image.avif
+glowfye_site/images/67e12afda95216bec08be54f_Ticker Image twopng-p-500.avif
+glowfye_site/images/67e12afda95216bec08be54f_Ticker Image twopng-p-800.avif
+glowfye_site/images/67e12afda95216bec08be54f_Ticker Image twopng.avif
+glowfye_site/images/67e12b4814062170f3ec0092_Ticker Image three-p-500.avif
+glowfye_site/images/67e12b4814062170f3ec0092_Ticker Image three-p-800.avif
+glowfye_site/images/67e12b4814062170f3ec0092_Ticker Image three.avif
+glowfye_site/images/67e22e74cf7452f77d1238ab_3728b10fa193803d2649a44ae52b99b9_users.png
+glowfye_site/images/67e239d62381372cee1c4e73_logo four.svg
+glowfye_site/images/67e239d671b4f52eeb1714ee_logo one.svg
+glowfye_site/images/67e239d6c6d305918a8617fb_logo three.svg
+glowfye_site/images/67e239d6c874b407931fc6bb_logo two.svg
+glowfye_site/images/67e38e8739d6d706551f85aa_83086530b8ed621917e2c79f1957098c_home-v3 difference section main image-p-500.webp
+glowfye_site/images/67e38e8739d6d706551f85aa_83086530b8ed621917e2c79f1957098c_home-v3 difference section main image-p-800.webp
+glowfye_site/images/67e38e8739d6d706551f85aa_83086530b8ed621917e2c79f1957098c_home-v3 difference section main image.webp
+glowfye_site/images/67e3c3fdacc88e01f70eed1b_vertical ticker image.avif
+glowfye_site/images/67e3c3fe54fb86622898d56b_vertical ticker image-3.avif
+glowfye_site/images/67e3c3fe9a1edccec8378235_vertical ticker image-1.avif
+glowfye_site/images/67e3c3febb151bf88e25654f_vertical ticker image-2.avif
+glowfye_site/images/67e4d6dfe1f9f9db6504ba06_Search icon.svg
+glowfye_site/images/67e50f50dc9a6482f078563e_error leaf visual.svg
+glowfye_site/images/67e66568a9cc9f79bf153c98_trash.svg
+glowfye_site/images/67f26513ca772d10c7b1da5d_Product More Image One.png
+glowfye_site/images/67f2659e3b071e2e85bd35bb_Product More Image Three.png
+glowfye_site/images/67f527c22da97b3380f72e63_team member five-p-500.avif
+glowfye_site/images/67f527c22da97b3380f72e63_team member five.avif
+glowfye_site/images/67f527c295adf7138e4412e2_team member three-p-500.avif
+glowfye_site/images/67f527c295adf7138e4412e2_team member three.avif
+glowfye_site/images/67f527c29fbc8d8b07c9aca4_team member two-p-500.avif
+glowfye_site/images/67f527c29fbc8d8b07c9aca4_team member two.avif
+glowfye_site/images/67f527c2b6e1052f98b14fbe_team member six-p-500.avif
+glowfye_site/images/67f527c2b6e1052f98b14fbe_team member six.avif
+glowfye_site/images/67f527c2e510c49f5e0a10ca_team member four-p-500.avif
+glowfye_site/images/67f527c2e510c49f5e0a10ca_team member four.avif
+glowfye_site/images/67f527c476cc775eedac37ef_team member one-p-500.avif
+glowfye_site/images/67f527c476cc775eedac37ef_team member one.avif
+glowfye_site/images/67f5f9e671162f10a155833e_Fab.png
+glowfye_site/images/67f5f9f5cb409a6a4e3b2a2e_Webclip.svg
+glowfye_site/images/67f5fd0c1f49c13400f919f5_Template's gallery images_1.avif
+glowfye_site/images/67f62515fb6a1c987dd9b276_aa94a8e65a49158b0d77c3a662a230fe_our story page hero main image-p-1080.webp
+glowfye_site/images/67f62515fb6a1c987dd9b276_aa94a8e65a49158b0d77c3a662a230fe_our story page hero main image-p-500.webp
+glowfye_site/images/67f62515fb6a1c987dd9b276_aa94a8e65a49158b0d77c3a662a230fe_our story page hero main image-p-800.webp
+glowfye_site/images/67f62515fb6a1c987dd9b276_aa94a8e65a49158b0d77c3a662a230fe_our story page hero main image.webp
+glowfye_site/images/67f62792df97909a71afc1ee_timeline item image two.avif
+glowfye_site/images/67f62825acd4dba934d6d102_timeline item image three-p-500.avif
+glowfye_site/images/67f62825acd4dba934d6d102_timeline item image three.avif
+glowfye_site/images/67f62875047506b754480896_timeline item image four-p-500.avif
+glowfye_site/images/67f62875047506b754480896_timeline item image four.avif
+glowfye_site/images/67f75d3f91f36c865d722e0f_Category thumbnail 1.avif
+glowfye_site/images/67f75d4b0c2c596bc22f88fc_Category thumbnail-2.avif
+glowfye_site/images/67f75d5ab6128e5e829269bd_Category thumbnail-5.avif
+glowfye_site/images/67f75d65a77d2a6210312693_Category thumbnail-6.avif
+glowfye_site/images/67f75d6cc74b75ff9df99e89_Category thumbnail-4.avif
+glowfye_site/images/67f75d71d4f7e69419e24116_Category thumbnail-3.avif
+glowfye_site/images/67f7a005dd888060ad5e9880_Product More Image Two.avif
+glowfye_site/images/6811aad5cafe33d9eab6f119_shop 2 location image-p-500.avif
+glowfye_site/images/6811aad5cafe33d9eab6f119_shop 2 location image.avif
+glowfye_site/images/6811aad5e2cb5ef9a380c100_shop 3 location image.avif
+glowfye_site/images/6811aad6b4c488ede1471081_shop 1 location image-p-500.avif
+glowfye_site/images/6811aad6b4c488ede1471081_shop 1 location image.avif
+glowfye_site/images/6811f1e96f54d19870998b4d_Product Image One-p-500.avif
+glowfye_site/images/6811f1e96f54d19870998b4d_Product Image One-p-800.avif
+glowfye_site/images/6811f1e96f54d19870998b4d_Product Image One.avif
+glowfye_site/images/6811f2b13de4cb0280d7f98e_Product Image Two-p-500.avif
+glowfye_site/images/6811f2b13de4cb0280d7f98e_Product Image Two.avif
+glowfye_site/images/6811f33e3500ad55e65ac687_Product Image Three-p-500.avif
+glowfye_site/images/6811f33e3500ad55e65ac687_Product Image Three.avif
+glowfye_site/images/6811f3603b90551878a4c7f6_Product Image Four-p-500.avif
+glowfye_site/images/6811f3603b90551878a4c7f6_Product Image Four.avif
+glowfye_site/images/6811f46785ad5b6f59eff6dd_Product Image Five-p-500.avif
+glowfye_site/images/6811f46785ad5b6f59eff6dd_Product Image Five-p-800.avif
+glowfye_site/images/6811f46785ad5b6f59eff6dd_Product Image Five.avif
+glowfye_site/images/6811fe28e26c6076d8f44b67_Product Image Six-p-500.avif
+glowfye_site/images/6811fe28e26c6076d8f44b67_Product Image Six.avif
+glowfye_site/images/6813642a41309c4e720b5dbe_Arrow SVG.svg
+glowfye_site/images/684fae40168be5fb13a7a58a_Ingrediants Main Image-p-1080.webp
+glowfye_site/images/684fae40168be5fb13a7a58a_Ingrediants Main Image-p-1600.webp
+glowfye_site/images/684fae40168be5fb13a7a58a_Ingrediants Main Image-p-2000.webp
+glowfye_site/images/684fae40168be5fb13a7a58a_Ingrediants Main Image-p-2600.webp
+glowfye_site/images/684fae40168be5fb13a7a58a_Ingrediants Main Image-p-500.webp
+glowfye_site/images/684fae40168be5fb13a7a58a_Ingrediants Main Image-p-800.webp
+glowfye_site/images/684fae40168be5fb13a7a58a_Ingrediants Main Image.webp
+glowfye_site/images/684faed81889fcdf57eb6d79_Ellipse 15.svg
+glowfye_site/images/684ff11260279ed8735f644b_Leaf Vector.svg
+glowfye_site/images/684ffb98b915b158d9285a10_women-beauty-image.webp
+glowfye_site/images/6850fecabf426edb637b12ff_6275518_Skincare_Beauty_1280x720_poster.jpg
+glowfye_site/images/685101453636344430caf1bf_Home V3 Hero Image-p-1080.webp
+glowfye_site/images/685101453636344430caf1bf_Home V3 Hero Image-p-500.webp
+glowfye_site/images/685101453636344430caf1bf_Home V3 Hero Image-p-800.webp
+glowfye_site/images/685101453636344430caf1bf_Home V3 Hero Image.webp
+glowfye_site/images/68515b958f75c4c208a30942_Our Story Main Image-p-1080.webp
+glowfye_site/images/68515b958f75c4c208a30942_Our Story Main Image-p-500.webp
+glowfye_site/images/68515b958f75c4c208a30942_Our Story Main Image-p-800.webp
+glowfye_site/images/68515b958f75c4c208a30942_Our Story Main Image.webp
+glowfye_site/images/685544e89299c1a5846a8281_Figma.svg
+glowfye_site/images/68592dc583d6e08a18651cd6_blog image (1).avif
+glowfye_site/images/685931d556a28fad4252cbd6_blog image (2).avif
+glowfye_site/images/6859320b9e8d52da5aaa8207_blog image (3).avif
+glowfye_site/images/685936a8aee1aa028b9109b8_our value section shape.png
+glowfye_site/images/68593b5bf9ef0cb3531fad6f_our stroy hero shape.png
+glowfye_site/images/contact
+glowfye_site/images/custom-checkbox-checkmark.589d534424.svg
+glowfye_site/images/file_86588214
+glowfye_site/images/flowfye-widget-logo.svg
+glowfye_site/images/flowfye-widget.svg
+glowfye_site/images/pagifye
+glowfye_site/index.html
+glowfye_site/index_offline.html
+glowfye_site/js/jquery-3.5.1.min.dc5e7f18c8.js
+glowfye_site/js/webflow.01d3516c.fd0ec6f45493166d.js
+glowfye_site/js/webflow.0e441611.6137593a9c2d7a0c.js
+glowfye_site/js/webflow.4b078698.17135f2e4ad0bbf0.js
+glowfye_site/js/webflow.6d825c9e.c500fdcc315afc5b.js
+glowfye_site/js/webflow.schunk.26493d4beaa9dff2.js
+glowfye_site/js/webflow.schunk.2b34912ad28f070d.js
+glowfye_site/js/webfont.js
+glowfye_site/make_offline.py
+glowfye_site/pages/404.html
+glowfye_site/pages/blog__5-pro-tips-for-glowing-skin.html
+glowfye_site/pages/blog__guide-to-long-gorgeous-hair.html
+glowfye_site/pages/blog__tips-for-stunning-nails.html
+glowfye_site/pages/blogs.html
+glowfye_site/pages/categories.html
+glowfye_site/pages/category__beauty-tools.html
+glowfye_site/pages/category__fragrance.html
+glowfye_site/pages/category__hair-care.html
+glowfye_site/pages/category__makeover.html
+glowfye_site/pages/category__nail-care.html
+glowfye_site/pages/category__skin-care.html
+glowfye_site/pages/checkout.html
+glowfye_site/pages/contact.html
+glowfye_site/pages/faq.html
+glowfye_site/pages/home-v1.html
+glowfye_site/pages/home-v2.html
+glowfye_site/pages/home-v3.html
+glowfye_site/pages/our-story.html
+glowfye_site/pages/privacy-policy.html
+glowfye_site/pages/product__anti-aging-serum.html
+glowfye_site/pages/product__brightening-eye-cream.html
+glowfye_site/pages/product__hair-growth-serum.html
+glowfye_site/pages/shop.html
+glowfye_site/pages/utilities__changelog.html
+glowfye_site/pages/utilities__licenses.html
+glowfye_site/pages/utilities__style-guides.html
+glowfye_site/url_mapping.json
+glowfye_site/urls.txt
+glowfye_site/videos/6850fecabf426edb637b12ff_6275518_Skincare_Beauty_1280x720-transcode.mp4
+glowfye_site/videos/6850fecabf426edb637b12ff_6275518_Skincare_Beauty_1280x720-transcode.webm

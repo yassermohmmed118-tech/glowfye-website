@@ -1,0 +1,1036 @@
+<!DOCTYPE html><!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Tue Jul 14 2026 11:44:04 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.flowfye.com" data-wf-page="6865ff610a69a82ad5ef5136" data-wf-site="6865ff610a69a82ad5ef5137" lang="en"><head><meta charset="utf-8"/><link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/><title>Flowfye - Empowering Brands with Custom Webflow Solutions | Flowfye</title><meta content="Flowfye is your trusted Webflow agency offering custom templates, web design, and development services. From startups to enterprises, we deliver SEO-friendly, scalable websites tailored to your needs." name="description"/><meta content="Flowfye - Empowering Brands with Custom Webflow Solutions | Flowfye" property="og:title"/><meta content="Flowfye is your trusted Webflow agency offering custom templates, web design, and development services. From startups to enterprises, we deliver SEO-friendly, scalable websites tailored to your needs." property="og:description"/><meta content="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68a80812558b35904f8462da_flowfye-webflow-graph-url.webp" property="og:image"/><meta content="Flowfye - Empowering Brands with Custom Webflow Solutions | Flowfye" name="twitter:title"/><meta content="Flowfye is your trusted Webflow agency offering custom templates, web design, and development services. From startups to enterprises, we deliver SEO-friendly, scalable websites tailored to your needs." name="twitter:description"/><meta content="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68a80812558b35904f8462da_flowfye-webflow-graph-url.webp" name="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><link href="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/css/flowfye-new.webflow.shared.7d384e21d.css" rel="stylesheet" type="text/css" integrity="sha384-fThOIdft7OyVXw26YAsC32Eo47Ys3/eQv04MaQ0o7Uyu7nUZOUmkS9qH1HHItyJA" crossorigin="anonymous"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68bff0ef08b3c80088426f19_Fab%20Icon.svg" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68bff0f2070cae95cf0d45fb_Web%20icon.svg" rel="apple-touch-icon"/><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7EWQERJJPQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7EWQERJJPQ');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TH9TPWN5');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '24223534580641609');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=24223534580641609&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- Microsoft clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "sqetn5qnlm");
+</script>
+
+<!-- end of Microsoft clarity -->
+
+<!-- Anti-flickering script -->
+<script>
+var  timeout = 3000; // Timeout value to remove the flicker (in milliseconds)
+!function(h,i,d,e){var  t,n=h.createElement("style");n.id=e,n.innerHTML="body{opacity:0}",h.head.appendChild(n),t=d,i.rmfk=function(){var  t=h.getElementById(e);t&&t.parentNode.removeChild(t)},setTimeout(i.rmfk,t)}(document,window,timeout,"abhide");
+</script>
+
+<!-- Mida A/B Testing Script -->
+<script type="text/javascript" async src="https://cdn.mida.so/js/optimize.js?key=9mv6yAGkYDAG7RJEzlN34O"></script>
+
+<!-- PostHog start -->
+<script>
+  !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once register_for_session unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group identify setPersonProperties setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags resetGroups onFeatureFlags addFeatureFlagsHandler onSessionId getSurveys getActiveMatchingSurveys renderSurvey canRenderSurvey getNextSurveyStep".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+    posthog.init('phc_twuqpBVEARU3UTBH2CjHpJCaVspSaldGgrAhuy50KeJ', {
+        api_host: 'https://pineapple.pagifye.com',
+        defaults: '2026-01-30'
+    })
+</script>
+<!-- posthog end-->
+
+
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js"></script>
+<script async src="https://unpkg.com/@barba/core"></script>
+<script async src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.23/bundled/lenis.min.js"></script>
+
+
+<style>
+html.lenis {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+</style>
+
+<!-- video alignment from top -->
+<style>
+  .w-background-video > video {
+  	object-position: top;
+  }
+</style>
+
+
+<!-- button hover styles -->
+<style>
+  .button .buttons-text {
+	position: relative;
+	z-index: 5;
+	transition: color 0.7s;
+}
+.button .fill {
+	position: absolute;
+	display: block;
+	content: "";
+	z-index: 0;
+	width: 0;
+	height: 0;
+	border-radius: 100%;
+	background: linear-gradient(45deg, #4DF5A4,#E1FF2C);
+	transform: translate(-50%, -50%);
+	transition: width 0.7s, padding-top 0.7s;         
+}
+
+.button:hover .fill {
+	width: calc(100% * 2.25);
+	padding-top: calc(100% * 2.25);
+}
+  
+.button.is-outline:hover {
+	border-color: transparent;  
+  	color: #172B1D;
+}
+  
+  .button.is-outline {
+  	transition: all .5s;
+  }
+  
+  @media (width < 768px) {
+    .button .fill {
+    	display: none;
+    }
+    .button.is-outline:hover {
+	border-color: white;  
+  	color: white;
+}
+  }
+</style>
+
+<!-- custom cursor styles -->
+
+<style>
+  .custom-cursor.animate {
+  animation: cursorGrowFade 0.5s forwards;
+}
+
+@keyframes cursorGrowFade {
+  0% {
+    width: 15px;
+    height: 15px;
+    opacity: 1;
+  }
+  50% {
+    width: 48px;
+    height: 48px;
+    opacity: 1;
+  }
+  100% {
+    width: 48px;
+    height: 48px;
+    opacity: 0;
+  }
+}
+
+.accordion_label.w--open {
+    opacity: 1;
+}
+  
+  .custom-cursor {
+  	transition: all .5s;
+  }
+.custom-cursor.hovered {
+	width: 80px;  
+  	height: 80px;
+  	background: #182C1D;
+}
+</style><meta name="google-site-verification" content="YnZRnnOxSyq3Pom4q9CSMlT4ryfDAh3rRxhj0iNYrG0" /></head><body><div class="google-tag w-embed w-iframe"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TH9TPWN5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div><div class="page-wrapper"><nav class="navigation"><div class="navigation-container"><div class="nav_brand-wrap"><a href="/" aria-current="page" class="nav_brand cursor-hide w-inline-block w--current"><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686601d2a9de1b63bfda6b59_flowfye-the-best-webflow-template-designer-agency.svg" alt="Brand"/></a><div data-w-id="3b3300c9-10da-5a13-0cb8-a81b86f7298b" class="nav_hamburger"><div class="nav_hamburger-icon"><div data-w-id="3b3300c9-10da-5a13-0cb8-a81b86f7298d" class="nav_hamburger-bar"></div><div data-w-id="3b3300c9-10da-5a13-0cb8-a81b86f7298e" class="nav_hamburger-bar"></div></div><div class="menu-text">menu</div></div></div><div class="nav_main-nav"><div class="nav_menus"><div class="nav_link-item"><div class="nav_link-animate"><a href="/services" class="nav_link cursor-hide w-inline-block"><div>Services</div><div class="nav_link-border"></div></a></div></div><div class="nav_link-item"><div class="nav_link-animate"><a href="/templates" class="nav_link cursor-hide w-inline-block"><div>Webflow Templates</div><div class="nav_link-border"></div></a></div></div><div class="nav_link-item"><div class="nav_link-animate"><a href="/services#works" class="nav_link cursor-hide w-inline-block"><div>Client Work</div><div class="nav_link-border"></div></a></div></div><div class="nav_link-item"><div class="nav_link-animate"><a href="/pricing" class="nav_link cursor-hide w-inline-block"><div>Pricing</div><div class="nav_link-border"></div></a><div class="nav_link_alt-badge">new</div></div></div><div class="nav_link-item"><div class="nav_link-animate"><a href="/blogs" class="nav_link cursor-hide w-inline-block"><div>Blog</div><div class="nav_link-border"></div></a></div></div><div class="nav_link-item nav-button-cta"><div class="nav_link-animate"><a href="/contact" class="button is-primary w-inline-block"><div class="button-text"><div>Contact Us</div></div></a></div></div></div><div class="nav_bg"></div></div></div><div class="nav_border"></div></nav><header class="section_home_hero"><div class="section-padding hero"><div class="container"><div class="home_hero_component"><div data-w-id="1a3da2a6-abb9-6363-6942-d065d2476c29" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="home_hero_client-portal"><a href="https://www.trustpilot.com/review/flowfye.com" target="_blank" class="home_hero_info w-inline-block"><div class="home_hero_client-images"><div class="home_hero_client-image-item"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686617186430fb9745264bc8_282c78485bff6621adf107e471d402632b6a2745.webp" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686617186430fb9745264bc8_282c78485bff6621adf107e471d402632b6a2745-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686617186430fb9745264bc8_282c78485bff6621adf107e471d402632b6a2745.webp 512w" alt="" class="object-cover"/></div><div class="home_hero_client-image-item is-pulled-left"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686618576dde42eee548bf00_client-meredith-detko.webp" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686618576dde42eee548bf00_client-meredith-detko-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686618576dde42eee548bf00_client-meredith-detko.webp 800w" alt="Portrait of a smiling woman with long red hair and blue eyes against a light blue background." class="object-cover"/></div><div class="home_hero_client-image-item is-pulled-left"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68661857cfbbb96c6c9a57c3_client-boltdata.webp" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68661857cfbbb96c6c9a57c3_client-boltdata-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68661857cfbbb96c6c9a57c3_client-boltdata.webp 512w" alt="" class="object-cover"/></div></div><div class="home_hero_trustpilot"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/6866198956dd41a3d97828f4_trustpilot-dummy-image.png" loading="lazy" alt="Trustpilot logo with a 5.0 star rating displayed by five yellow stars."/></div></a><a href="https://webflow.com/@flowfye" target="_blank" class="home_hero_partner w-inline-block"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/6883025f70eb83dbe43c51d8_webflow-certified-partner.svg" loading="lazy" alt="" class="image-responsive"/></a></div><div class="margin-bottom margin-40px"><div class="heading-mask"><div data-w-id="cfcccbd2-31b5-5798-204d-750ef8ac49a1" style="-webkit-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="heading-animate"><h1 class="heading-text">Driving Business Growth with </h1></div></div><div class="heading-mask"><div data-w-id="df78944c-ce38-a450-5b66-fe91e9aa022b" style="-webkit-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="heading-animate"><div class="text-gradient"><h1 class="heading-text">Webflow</h1></div></div></div></div><p data-w-id="4cd09707-da72-34dd-2ddb-51099e04299b" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="body-text-24px font-weight-300">Elevate your online presence with our custom Webflow solutions</p></div></div></div><div class="gradinet-bg-wrapper"><div class="gradinet-bg"><div class="bg_green"></div><div class="bg_yellow"></div></div></div></header><main class="main-wrapper"><section data-w-id="ca529f8e-1ee2-a908-3856-c67653800650" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="section_feature_templates"><div class="section-padding"><div class="container"><div class="feature_templates_component"><div data-w-id="0b295039-31d4-5ef3-7abb-defb51356cad" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="feature_templates_heading"><div class="section-subheading"><div class="body-text-18px">Explore Our Featured Templates</div></div></div></div></div></div><div data-w-id="ed4f1f52-4e9c-a8db-1f11-d5cec11baf09" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="feature_templates_marquee"><div data-wf--featured-templates-ticker--variant="base" class="marquee-row"><div class="w-dyn-list"><div role="list" class="feature_templates_wrapper w-dyn-items"><div role="listitem" class="w-dyn-item"><a href="/templates/readvisor" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233ed84e542148a6d5bb3_665d2b55afd53c22711f2f85_09a34fd8-7d43-4b2d-a3de-22b6422abf29.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">reAdvisor</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">49</div></div></div><div class="feature_templates_card-tag"><div>reAdvisor - Professional Services Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/realtifye-pro" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233f454e6126974fef05a_679045de842f3618d40f4411_741cc97b-bf2c-4d4b-9248-4e64a005d1a4.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">RealtiFye Pro</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">79</div></div></div><div class="feature_templates_card-tag"><div>RealtiFye Pro - Real Estate Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/aquafix" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d2340d4af2590ae69e01e8_67d4d64f59a5d3b9d2931c99_8385b21e-792e-4a00-a6b5-ea9f38d2bf87.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">Aquafix</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">79</div></div></div><div class="feature_templates_card-tag"><div>Aquafix - Home Services Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/dowhith" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233eb200146805a9e0d32_679046750b300eb6fba6c045_7e19d1cd-e481-4d95-860a-4446ff52babb.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">DoWhith</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">49</div></div></div><div class="feature_templates_card-tag"><div>DoWhith - Technology Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/ocera" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233f8253f3a64eff56d4b_67903e6ffee442aa911c1a91_b62d1fcd-eabd-4280-bd6b-c2d12f1a35ae.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">Ocera</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">79</div></div></div><div class="feature_templates_card-tag"><div>Ocera - Education Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/producthive" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233f247fa5d4975bbea72_67903ea14bf59f06cb297723_a4f4cbdd-d4b2-40d6-b529-49dc67d4db6d.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">ProductHive</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">79</div></div></div><div class="feature_templates_card-tag"><div>ProductHive - Professional Services Website Template</div></div></div></a></div></div></div></div><div data-wf--featured-templates-ticker--variant="base" class="marquee-row"><div class="w-dyn-list"><div role="list" class="feature_templates_wrapper w-dyn-items"><div role="listitem" class="w-dyn-item"><a href="/templates/readvisor" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233ed84e542148a6d5bb3_665d2b55afd53c22711f2f85_09a34fd8-7d43-4b2d-a3de-22b6422abf29.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">reAdvisor</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">49</div></div></div><div class="feature_templates_card-tag"><div>reAdvisor - Professional Services Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/realtifye-pro" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233f454e6126974fef05a_679045de842f3618d40f4411_741cc97b-bf2c-4d4b-9248-4e64a005d1a4.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">RealtiFye Pro</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">79</div></div></div><div class="feature_templates_card-tag"><div>RealtiFye Pro - Real Estate Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/aquafix" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d2340d4af2590ae69e01e8_67d4d64f59a5d3b9d2931c99_8385b21e-792e-4a00-a6b5-ea9f38d2bf87.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">Aquafix</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">79</div></div></div><div class="feature_templates_card-tag"><div>Aquafix - Home Services Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/dowhith" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233eb200146805a9e0d32_679046750b300eb6fba6c045_7e19d1cd-e481-4d95-860a-4446ff52babb.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">DoWhith</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">49</div></div></div><div class="feature_templates_card-tag"><div>DoWhith - Technology Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/ocera" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233f8253f3a64eff56d4b_67903e6ffee442aa911c1a91_b62d1fcd-eabd-4280-bd6b-c2d12f1a35ae.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">Ocera</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">79</div></div></div><div class="feature_templates_card-tag"><div>Ocera - Education Website Template</div></div></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/producthive" class="feature_templates_card w-inline-block"><div class="feature_templates_card-image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/68d233f247fa5d4975bbea72_67903ea14bf59f06cb297723_a4f4cbdd-d4b2-40d6-b529-49dc67d4db6d.webp" loading="lazy" alt="" class="object-cover"/></div><div class="feature_templates_card-body"><div class="feature_templates_card-info"><div class="feature_templates_card-title">ProductHive</div><div class="feature_templates_price"><div>$</div><div class="feature_templates_card-price">79</div></div></div><div class="feature_templates_card-tag"><div>ProductHive - Professional Services Website Template</div></div></div></a></div></div></div></div></div><div data-w-id="4c18ab87-13a2-2167-1acc-25eae343839e" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="section-footer content-align-center"><div class="button-container"><a href="/templates" class="button is-outline w-inline-block"><div class="button-text"><div>View All Template</div></div></a></div></div><div class="w-embed"><style>
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+
+.marquee-row {
+  animation: 30s slide infinite linear;
+}
+
+.feature_templates_marquee:hover .marquee-row {
+  animation-play-state: paused;
+}
+
+</style></div></section><section data-wf--section-testimony--variant="base" class="section_testimonials"><div class="section-padding section_testimony"><div class="container"><div data-animate="heading-line" class="section-header"><div class="heading-mask"><div data-w-id="1d97cba9-4fc9-ce08-0d08-f8a849878b57" class="heading-animate"><h2><strong>Flowfye: Trusted by Businesses </strong></h2></div><div data-w-id="fc1c5002-86e7-1ab8-8bc2-f305c74b1fcc" class="heading-animate _2"><h2><strong>Across the Globe</strong></h2></div></div></div><div data-w-id="715caa42-16be-0493-769a-d5ab387a7511" class="horizontal-section"><div class="horizontal-trigger"></div><div class="horizontal-sticky"><div class="list"><div data-video="https://www.dropbox.com/scl/fi/qonkn69bh0t2t5utmjeb0/WhatsApp-Video-2025-05-19-at-16.20.15.mp4?rlkey=kl2nsixsqw7s445mnmkl4m9e4&amp;st=0jd7zqcb&amp;dl=0" class="horizontal-item is-odd"><div class="testimonials_media is-odd"><div class="testimonials_media-inner"><div data-poster-url="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686766c252d5a1539fb06792_Whatsapp%20Video%202025-05-19%20At%20162015-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686766c252d5a1539fb06792_Whatsapp%20Video%202025-05-19%20At%20162015-transcode.mp4,https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686766c252d5a1539fb06792_Whatsapp%20Video%202025-05-19%20At%20162015-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="testimonials_video-bg w-background-video w-background-video-atom"><video id="715caa42-16be-0493-769a-d5ab387a7518-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686766c252d5a1539fb06792_Whatsapp%20Video%202025-05-19%20At%20162015-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686766c252d5a1539fb06792_Whatsapp%20Video%202025-05-19%20At%20162015-transcode.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686766c252d5a1539fb06792_Whatsapp%20Video%202025-05-19%20At%20162015-transcode.webm" data-wf-ignore="true"/></video></div><div class="testimonials_video"><div class="testimonials_video-embed w-embed"><video
+  src="https://www.dropbox.com/scl/fi/qonkn69bh0t2t5utmjeb0/flowfye-testimony-video-1.mp4?rlkey=kl2nsixsqw7s445mnmkl4m9e4&raw=1
+"
+  loop
+  playsinline
+  style="max-width: 100%; height: auto;"
+  class="video-play"
+></video></div></div></div><div class="video-play-button"><div class="video_play"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 19 23" fill="none"><path d="M18.625 12.375L0.25 0.75V22.5L18.625 12.375Z" fill="currentColor"></path></svg></div><div class="video_pause"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 19 20" fill="none"><rect width="18.38" height="20" fill="currentColor"></rect></svg></div></div></div><div class="testimonials_card-body"><div class="margin-bottom margin-6px"><div class="body-text-24px">Meredith Detko</div></div><div>Founder, Free Founders Coaching</div></div></div><div class="horizontal-item is-even"><div class="testimonials_media is-even"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687f185c33ddc2ff80d92358_flowfye-webflow-cleint-2.webp" loading="lazy" sizes="(max-width: 828px) 100vw, 828px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687f185c33ddc2ff80d92358_flowfye-webflow-cleint-2-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687f185c33ddc2ff80d92358_flowfye-webflow-cleint-2.webp 828w" alt="" class="object-cover"/></div><div class="testimonials_card-body"><div class="margin-bottom margin-6px"><div class="body-text-24px">Enzo Carasso</div></div><div>Founder &amp; CEO, C17 Lab</div><p class="testimonials_card-text">“<strong> Those guys are world class.</strong><br/><br/> This guy been handling all my websites work for the past few years and there are just the fastest and most reliable team you can imagine.”</p></div></div><div data-video="https://www.dropbox.com/scl/fi/tkybr2d4w2o22a5q8c4b8/flowfye-testimony-video-3.mp4?rlkey=4zvhd83l1cos7ba386rkjt0ro&amp;raw=1" class="horizontal-item is-odd"><div class="testimonials_media is-third"><div class="testimonials_media-inner"><div data-poster-url="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686e08b2df2dd38883b2234f_Flowfye-Video-Testimony-3-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686e08b2df2dd38883b2234f_Flowfye-Video-Testimony-3-transcode.mp4,https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686e08b2df2dd38883b2234f_Flowfye-Video-Testimony-3-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="testimonials_video-bg w-background-video w-background-video-atom"><video id="715caa42-16be-0493-769a-d5ab387a7554-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686e08b2df2dd38883b2234f_Flowfye-Video-Testimony-3-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686e08b2df2dd38883b2234f_Flowfye-Video-Testimony-3-transcode.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686e08b2df2dd38883b2234f_Flowfye-Video-Testimony-3-transcode.webm" data-wf-ignore="true"/></video></div><div class="testimonials_video"><div class="testimonials_video-embed w-embed"><video
+  src="https://www.dropbox.com/scl/fi/tkybr2d4w2o22a5q8c4b8/flowfye-testimony-video-3.mp4?rlkey=4zvhd83l1cos7ba386rkjt0ro&raw=1
+"
+  loop
+  playsinline
+  style="max-width: 100%; height: auto;"
+  class="video-play"
+></video></div></div></div><div class="video-play-button"><div class="video_play"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 19 23" fill="none"><path d="M18.625 12.375L0.25 0.75V22.5L18.625 12.375Z" fill="currentColor"></path></svg></div><div class="video_pause"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 20 20" fill="none"><rect width="20" height="20" fill="currentColor"></rect></svg></div></div></div><div class="testimonials_card-body"><div class="margin-bottom margin-6px"><div class="body-text-24px"><a href="https://www.linkedin.com/in/alicia-jarrett/">Alicia Jarrett</a></div></div><div>Co-Founder, SIFTR</div></div></div><div class="horizontal-item is-even"><div class="testimonials_media is-even"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/689346915ff582345ed765e0_Morena-Bolt-Data.jpg" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/689346915ff582345ed765e0_Morena-Bolt-Data-p-500.jpg 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/689346915ff582345ed765e0_Morena-Bolt-Data.jpg 800w" alt="Morena-Bolt-Data" class="object-cover"/></div><div class="testimonials_card-body"><div class="margin-bottom margin-6px"><div class="body-text-24px">Morena Le Blanc</div></div><div>Director of Marketing, Bolt Data</div><p class="testimonials_card-text">I reached out to the Flowfye team for additional support for custom functionality and design. Their team was quick to scope the project and get to work on helping complete our company&#x27;s site. They are very detailed and thorough and the final design exceeded my expectations. I highly recommend the Flowfye team for any Webflow project!</p></div></div><div data-video="https://www.dropbox.com/scl/fi/5yziei4hma45zowp82qpk/flowfye-testimony-video-4.mp4?rlkey=lwyufdnwk6due0abs4psbkswl&amp;raw=1" class="horizontal-item is-odd"><div class="testimonials_media is-third"><div class="testimonials_media-inner"><div data-poster-url="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F687f19221b1bd5746ff30ff1_Video-Testimony-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F687f19221b1bd5746ff30ff1_Video-Testimony-transcode.mp4,https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F687f19221b1bd5746ff30ff1_Video-Testimony-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="testimonials_video-bg w-background-video w-background-video-atom"><video id="b78ce479-f627-23b7-1188-ea4b323adc80-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F687f19221b1bd5746ff30ff1_Video-Testimony-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F687f19221b1bd5746ff30ff1_Video-Testimony-transcode.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F687f19221b1bd5746ff30ff1_Video-Testimony-transcode.webm" data-wf-ignore="true"/></video></div><div class="testimonials_video"><div class="testimonials_video-embed w-embed"><video
+  src="https://www.dropbox.com/scl/fi/5yziei4hma45zowp82qpk/flowfye-testimony-video-4.mp4?rlkey=lwyufdnwk6due0abs4psbkswl&raw=1
+"
+  loop
+  playsinline
+  style="max-width: 100%; height: auto;"
+  class="video-play"
+></video></div></div></div><div class="video-play-button"><div class="video_play"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 19 23" fill="none"><path d="M18.625 12.375L0.25 0.75V22.5L18.625 12.375Z" fill="currentColor"></path></svg></div><div class="video_pause"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 20 20" fill="none"><rect width="20" height="20" fill="currentColor"></rect></svg></div></div></div><div class="testimonials_card-body"><div class="margin-bottom margin-6px"><div class="body-text-24px">Mina Karem Soliman</div></div><div>CEO, Culturize</div></div></div><div class="horizontal-item is-even"><div class="testimonials_media is-even"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68934691b4126ec756981458_Hannah%20Neace-Sirk.jpg" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68934691b4126ec756981458_Hannah%20Neace-Sirk-p-500.jpg 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68934691b4126ec756981458_Hannah%20Neace-Sirk.jpg 800w" alt="Hannah Neace-Sirk" class="object-cover"/></div><div class="testimonials_card-body"><div class="margin-bottom margin-6px"><div class="body-text-24px">Hannah Neace</div></div><div>Web/Interactive Designer, SIRK</div><p class="testimonials_card-text">The Olefye template has been perfect for our client&#x27;s website design. Super easy to use and beautiful to look at. When I needed help with an animation setting, the team was super helpful in walking me through what I was finding difficult, and it was fixed within 10 minutes. Highly recommend!</p></div></div><div data-video="https://www.dropbox.com/scl/fi/pmo2szu0jun60w1jmpa56/IMG_3797.mp4?rlkey=5ctv8jn53rxhpcztg71f414br&amp;st=7qy0ipaw&amp;dl=0" class="horizontal-item is-odd"><div class="testimonials_media is-third"><div class="testimonials_media-inner"><div data-poster-url="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686d0de57f75b82e4fe1354c_Img%203797-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686d0de57f75b82e4fe1354c_Img%203797-transcode.mp4,https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686d0de57f75b82e4fe1354c_Img%203797-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="testimonials_video-bg w-background-video w-background-video-atom"><video id="715caa42-16be-0493-769a-d5ab387a7536-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686d0de57f75b82e4fe1354c_Img%203797-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686d0de57f75b82e4fe1354c_Img%203797-transcode.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137%2F686d0de57f75b82e4fe1354c_Img%203797-transcode.webm" data-wf-ignore="true"/></video></div><div class="testimonials_video"><div class="testimonials_video-embed w-embed"><video
+  src="https://www.dropbox.com/scl/fi/mil4rjef3ab7lf7ulfpz3/flowfye-testimony-video-2.mp4?rlkey=r0tbco5bt6vexaxoofml38tkx&raw=1
+"
+  loop
+  playsinline
+  style="max-width: 100%; height: auto;"
+  class="video-play"
+></video></div></div></div><div class="video-play-button"><div class="video_play"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 19 23" fill="none"><path d="M18.625 12.375L0.25 0.75V22.5L18.625 12.375Z" fill="currentColor"></path></svg></div><div class="video_pause"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 19 20" fill="none"><rect width="18.38" height="20" fill="currentColor"></rect></svg></div></div></div><div class="testimonials_card-body"><div class="margin-bottom margin-6px"><div class="body-text-24px">Yahel Klein</div></div><div>Business Manager, Terrific</div></div></div></div></div></div></div></div></section><section class="section_projects"><div class="section-padding vertical-200x200"><div class="container"><div class="projects_component"><div data-w-id="2351d344-6e3b-9e30-c21f-dfa031f79270" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="projects_heading"><div class="section-subheading"><div class="body-text-18px">Our Recent Projects</div></div></div><div class="projects_content"><a data-w-id="ff243360-34fa-30ea-92d6-3e8f0b5f9542" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="https://www.terrificlive.com/" target="_blank" class="projects_item w-inline-block"><div class="projects_item-content"><div class="projects_item_title"><h2 class="project_item_title-text">Terrificlive</h2></div><div class="projects_cta"><div class="projects_cta-text">Live View</div><div class="icon-24x24"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.59989 11.2001L19.6639 11.2001L14.6239 6.17606L15.7439 5.05606L22.7039 12.0321L15.7279 19.0081L14.5919 17.8881L19.6159 12.8641L1.53589 12.8641L1.53589 11.2641L1.59989 11.2001Z" fill="currentColor"></path></svg></div></div></div><div class="projects_bg"></div><div class="project_custom-border"></div><div class="projects_image-wrap"><div class="projects_image"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b0897b24c945e5e11_webflow-client-project-terrific-live.webp" loading="lazy" sizes="(max-width: 710px) 100vw, 710px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b0897b24c945e5e11_webflow-client-project-terrific-live-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b0897b24c945e5e11_webflow-client-project-terrific-live.webp 710w" alt="Woman wearing a beige hijab applying an under-eye patch with both hands." class="object-cover"/></div></div></a><a data-w-id="4d49b80e-e76a-0efe-1260-cbc4dee0aa03" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="https://www.bolt-data.com/" target="_blank" class="projects_item w-inline-block"><div class="projects_item-content"><div class="projects_item_title"><h2 class="project_item_title-text">Bolt-data</h2></div><div class="projects_cta"><div class="projects_cta-text">Live View</div><div class="icon-24x24"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.59989 11.2001L19.6639 11.2001L14.6239 6.17606L15.7439 5.05606L22.7039 12.0321L15.7279 19.0081L14.5919 17.8881L19.6159 12.8641L1.53589 12.8641L1.53589 11.2641L1.59989 11.2001Z" fill="currentColor"></path></svg></div></div></div><div class="projects_bg"></div><div class="project_custom-border"></div><div class="projects_image-wrap"><div class="projects_image"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b6d88b5428be57917_webflow-client-project-boltdata.webp" loading="lazy" sizes="(max-width: 710px) 100vw, 710px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b6d88b5428be57917_webflow-client-project-boltdata-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b6d88b5428be57917_webflow-client-project-boltdata.webp 710w" alt="Construction worker in yellow hardhat and reflective vest using a tablet outdoors near wind turbines." class="object-cover"/></div></div></a><a data-w-id="59f9da60-a3f3-1551-fe19-8f27931dce65" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="https://www.c17.ai/" target="_blank" class="projects_item w-inline-block"><div class="projects_item-content"><div class="projects_item_title"><h2 class="project_item_title-text">c17 lab</h2></div><div class="projects_cta"><div class="projects_cta-text">Live View</div><div class="icon-24x24"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.59989 11.2001L19.6639 11.2001L14.6239 6.17606L15.7439 5.05606L22.7039 12.0321L15.7279 19.0081L14.5919 17.8881L19.6159 12.8641L1.53589 12.8641L1.53589 11.2641L1.59989 11.2001Z" fill="currentColor"></path></svg></div></div></div><div class="projects_bg"></div><div class="project_custom-border"></div><div class="projects_image-wrap"><div class="projects_image"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b75039cae0cb0a5da_webflow-client-project-c17.webp" loading="lazy" sizes="(max-width: 710px) 100vw, 710px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b75039cae0cb0a5da_webflow-client-project-c17-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b75039cae0cb0a5da_webflow-client-project-c17.webp 710w" alt="Two people shaking hands in a professional setting with a purple gradient overlay and c17 lab logo over the image." class="object-cover"/></div></div></a><a data-w-id="ec478887-7890-b56f-c7f7-1797b9915582" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="https://www.meredithdetko.com/" target="_blank" class="projects_item w-inline-block"><div class="projects_item-content"><div class="projects_item_title"><h2 class="project_item_title-text">Meredith Detko</h2></div><div class="projects_cta"><div class="projects_cta-text">Live View</div><div class="icon-24x24"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.59989 11.2001L19.6639 11.2001L14.6239 6.17606L15.7439 5.05606L22.7039 12.0321L15.7279 19.0081L14.5919 17.8881L19.6159 12.8641L1.53589 12.8641L1.53589 11.2641L1.59989 11.2001Z" fill="currentColor"></path></svg></div></div></div><div class="projects_bg"></div><div class="project_custom-border"></div><div class="projects_image-wrap"><div class="projects_image"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b21aab73a516236d1_webflow-client-project-meredith-detko.webp" loading="lazy" sizes="(max-width: 710px) 100vw, 710px" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b21aab73a516236d1_webflow-client-project-meredith-detko-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/687dce1b21aab73a516236d1_webflow-client-project-meredith-detko.webp 710w" alt="Blurred image of a woman sitting on a couch holding a book, with books and a plant in the foreground, overlaid with the text &#x27;MEREDITH DETKO&#x27;." class="object-cover"/></div></div></a></div></div></div></div></section><section class="section_about"><div class="section-padding"><div class="container"><div class="section-header"><div class="margin-bottom margin-40px"><div class="heading-mask"><div data-w-id="85cff62b-22af-33a5-b344-5c0bbe0ad6d1" style="-webkit-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="heading-animate"><h2 class="heading-text"><strong>Flowfye designs &amp; builds </strong></h2></div></div><div class="heading-mask"><div data-w-id="7857debd-b49c-63be-99a1-2e09c9d6b456" style="-webkit-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="heading-animate"><h2 class="heading-text"><strong>for growth</strong></h2></div></div></div><div data-w-id="6b6f30be-7ae4-1994-63ea-f71f213c8964" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="about_header-text"><p class="body-text-24px font-weight-300">We’re a team of sharp UI/UX and web experts building high-performance websites that drive real growth and ROI.</p></div></div></div></div><div class="about_main"><div class="about_part"><div class="about_part-image"><div data-w-id="28707423-1c60-e3aa-d95a-a81bb710a5ff" class="image-wrapper"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9a202ff74e23663ead64_flowfye-office.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9a202ff74e23663ead64_flowfye-office-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9a202ff74e23663ead64_flowfye-office-p-800.webp 800w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9a202ff74e23663ead64_flowfye-office-p-1080.webp 1080w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9a202ff74e23663ead64_flowfye-office.webp 1272w" class="object-cover"/><div class="image-overlay"></div></div></div></div><div class="about_content"><div class="about_main-image"><div data-w-id="28707423-1c60-e3aa-d95a-a81bb710a5ff" class="image-wrapper"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9b39fbdfe28c86059d2f_flowfye-office-meeting.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9b39fbdfe28c86059d2f_flowfye-office-meeting-p-500.webp 500w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9b39fbdfe28c86059d2f_flowfye-office-meeting-p-800.webp 800w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9b39fbdfe28c86059d2f_flowfye-office-meeting-p-1080.webp 1080w, https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b9b39fbdfe28c86059d2f_flowfye-office-meeting.webp 1384w" class="object-cover"/><div class="image-overlay"></div></div></div><div class="about_main-content"><h2 data-w-id="a63da4df-b48b-ad95-7d75-c055c0ec1cbc" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="about_main-title">Our Services</h2><div data-animate="from-bottom" class="about_main-list"><a data-w-id="8d2ef114-b5d7-1dad-460e-d612928226d1" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="/services#webflow-development" class="about_main-item w-inline-block"><div class="about_main_item-content"><div class="about_main_item-title">Custom Webflow Design &amp; Development<br/></div><div class="about_main_item-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 12 12" fill="none"><path d="M2.39943 6.04432H7.76103L5.41863 8.38672C5.23143 8.57392 5.23143 8.88112 5.41863 9.06832C5.60583 9.25552 5.90823 9.25552 6.09543 9.06832L9.25863 5.90512C9.44583 5.71792 9.44583 5.41552 9.25863 5.22832L6.10023 2.06032C5.91303 1.87312 5.61063 1.87312 5.42343 2.06032C5.23623 2.24752 5.23623 2.54992 5.42343 2.73712L7.76103 5.08432H2.39943C2.13543 5.08432 1.91943 5.30032 1.91943 5.56432C1.91943 5.82832 2.13543 6.04432 2.39943 6.04432Z" fill="currentColor"></path></svg></div></div><div class="about_main_item-bg"></div><div class="about_custom-border"></div></a><a data-w-id="f4181a50-2b81-175e-ceea-a6062053b40b" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="/services#ui-ux-design" class="about_main-item w-inline-block"><div class="about_main_item-content"><div class="about_main_item-title">Custom Design Service (UI/UX)</div><div class="about_main_item-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 12 12" fill="none"><path d="M2.39943 6.04432H7.76103L5.41863 8.38672C5.23143 8.57392 5.23143 8.88112 5.41863 9.06832C5.60583 9.25552 5.90823 9.25552 6.09543 9.06832L9.25863 5.90512C9.44583 5.71792 9.44583 5.41552 9.25863 5.22832L6.10023 2.06032C5.91303 1.87312 5.61063 1.87312 5.42343 2.06032C5.23623 2.24752 5.23623 2.54992 5.42343 2.73712L7.76103 5.08432H2.39943C2.13543 5.08432 1.91943 5.30032 1.91943 5.56432C1.91943 5.82832 2.13543 6.04432 2.39943 6.04432Z" fill="currentColor"></path></svg></div></div><div class="about_main_item-bg"></div><div class="about_custom-border"></div></a><a data-w-id="f1e20fd0-2349-c5f5-50b5-f24935fbbf32" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="/services#theme-customization" class="about_main-item w-inline-block"><div class="about_main_item-content"><div class="about_main_item-title">Webflow Theme Customization</div><div class="about_main_item-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 12 12" fill="none"><path d="M2.39943 6.04432H7.76103L5.41863 8.38672C5.23143 8.57392 5.23143 8.88112 5.41863 9.06832C5.60583 9.25552 5.90823 9.25552 6.09543 9.06832L9.25863 5.90512C9.44583 5.71792 9.44583 5.41552 9.25863 5.22832L6.10023 2.06032C5.91303 1.87312 5.61063 1.87312 5.42343 2.06032C5.23623 2.24752 5.23623 2.54992 5.42343 2.73712L7.76103 5.08432H2.39943C2.13543 5.08432 1.91943 5.30032 1.91943 5.56432C1.91943 5.82832 2.13543 6.04432 2.39943 6.04432Z" fill="currentColor"></path></svg></div></div><div class="about_main_item-bg"></div><div class="about_custom-border"></div></a><a data-w-id="86d5511d-69a2-e808-a848-2970d5725ad9" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="/services#platform-migration" class="about_main-item w-inline-block"><div class="about_main_item-content"><div class="about_main_item-title">Webflow Migration</div><div class="about_main_item-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 12 12" fill="none"><path d="M2.39943 6.04432H7.76103L5.41863 8.38672C5.23143 8.57392 5.23143 8.88112 5.41863 9.06832C5.60583 9.25552 5.90823 9.25552 6.09543 9.06832L9.25863 5.90512C9.44583 5.71792 9.44583 5.41552 9.25863 5.22832L6.10023 2.06032C5.91303 1.87312 5.61063 1.87312 5.42343 2.06032C5.23623 2.24752 5.23623 2.54992 5.42343 2.73712L7.76103 5.08432H2.39943C2.13543 5.08432 1.91943 5.30032 1.91943 5.56432C1.91943 5.82832 2.13543 6.04432 2.39943 6.04432Z" fill="currentColor"></path></svg></div></div><div class="about_main_item-bg"></div><div class="about_custom-border"></div></a><a data-w-id="3b01391e-8672-9500-52fa-6d4f5dfa3ddd" style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="/services#seo" class="about_main-item w-inline-block"><div class="about_main_item-content"><div class="about_main_item-title">Maintenance &amp; SEO Optimization</div><div class="about_main_item-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 12 12" fill="none"><path d="M2.39943 6.04432H7.76103L5.41863 8.38672C5.23143 8.57392 5.23143 8.88112 5.41863 9.06832C5.60583 9.25552 5.90823 9.25552 6.09543 9.06832L9.25863 5.90512C9.44583 5.71792 9.44583 5.41552 9.25863 5.22832L6.10023 2.06032C5.91303 1.87312 5.61063 1.87312 5.42343 2.06032C5.23623 2.24752 5.23623 2.54992 5.42343 2.73712L7.76103 5.08432H2.39943C2.13543 5.08432 1.91943 5.30032 1.91943 5.56432C1.91943 5.82832 2.13543 6.04432 2.39943 6.04432Z" fill="currentColor"></path></svg></div></div><div class="about_main_item-bg"></div><div class="about_custom-border"></div></a></div></div></div></div></section><section data-w-id="a16fc19e-10c0-516e-21fd-10c93fae1fa8" class="section_blog-list"><div class="section-padding vertical-200x200"><div class="container"><div class="blog-list_component"><div class="section-header"><h2 class="blog-list_heading"><div class="blog-list_heading-1"><div class="heading-custom-h1">Our Recent</div></div><div class="blog-list_heading-2"><div class="heading-text text-gradient"><div class="heading-custom-h1">Insights</div></div></div></h2></div><div class="blog-list_content-wrap"><div class="blog-list_cms w-dyn-list"><div role="list" class="blog-list_content w-dyn-items"><div role="listitem" class="blog-list_item w-dyn-item"><a data-wf--blog-card--variant="base" data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac938" href="/blogs/how-much-does-it-cost-to-create-a-website" class="blog-list_card w-inline-block"><div class="blog-list_card_image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/6a327be2d4eb0334ecdc930a_Create%20a%20Website%20in%202026_.webp" loading="lazy" alt="" class="object-cover is-blog"/></div><div class="blog-list_card_body"><div class="margin-bottom margin-8px"><div data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac93d">June 20, 2026</div></div><h3 data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac93f" class="blog-list_card_title">How Much Does It Cost to Create a Website in 2026?</h3></div></a></div><div role="listitem" class="blog-list_item w-dyn-item"><a data-wf--blog-card--variant="base" data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac938" href="/blogs/hiring-a-webflow-agency" class="blog-list_card w-inline-block"><div class="blog-list_card_image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/6a3279bd3bbd373723ae3c8a_Cover.webp" loading="lazy" alt="" class="object-cover is-blog"/></div><div class="blog-list_card_body"><div class="margin-bottom margin-8px"><div data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac93d">June 19, 2026</div></div><h3 data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac93f" class="blog-list_card_title">Hiring a Webflow Agency in 2026: How to Choose the Right Webflow Partner</h3></div></a></div><div role="listitem" class="blog-list_item w-dyn-item"><a data-wf--blog-card--variant="base" data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac938" href="/blogs/top-11-free-webflow-templates-2026" class="blog-list_card w-inline-block"><div class="blog-list_card_image"><img src="https://cdn.prod.website-files.com/6867b5eaf82a576fe3ead3c1/6a326e95f5f949fd5389c239_Top%2011%20Free%20%20Webflow%20Templates.webp" loading="lazy" alt="" class="object-cover is-blog"/></div><div class="blog-list_card_body"><div class="margin-bottom margin-8px"><div data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac93d">June 18, 2026</div></div><h3 data-w-id="7de9ff2f-e524-b7d0-eaef-7a87539ac93f" class="blog-list_card_title">Top 11 Free Webflow Templates in 2026</h3></div></a></div></div></div></div><div class="section-footer home_blog"><div class="button-container"><a href="/blogs" class="button is-primary w-inline-block"><div class="button-text">See More Insight</div></a></div></div></div></div></div></section><section data-wf--faq--variant="base" class="section_faq"><div class="section-padding is-faq"><div class="container"><div class="faq_component"><div class="faq_header"><div class="faq_heading_wrapper"><h2 class="section_title"><div class="heading-mask"><div data-w-id="b7dd13ed-6b17-75b4-c686-785acd72f9e3" class="heading-animate"><div>Questions People</div></div></div><div class="heading-mask"><div data-w-id="32c4ac68-1dff-84ac-ff16-82887f94d57e" class="heading-animate"><div>Ask</div></div></div></h2></div></div><div class="faq_accordion"><div data-delay="0" data-hover="false" data-w-id="b7dd13ed-6b17-75b4-c686-785acd72f9ef" class="accordion_item w-dropdown"><div class="accordion_label w-dropdown-toggle"><div class="accordion_label-text"><div>How much time does it take to finish a Webflow project?</div></div><div class="accordion_icon-wrap"><div class="accordion_icon"><div class="accordion_icon-bar-1"></div><div class="accordion_icon-bar-2"></div></div></div><div class="accordion_border-track"><div class="accordion_border"></div></div></div><nav class="accordion_details w-dropdown-list"><div class="accordion_details-text"><div>The timeline depends on the complexity of the website and the required services. A small 1-3 page site can be completed within 5 to 10 workdays, while a 3-10 page site typically takes 10 to 15 workdays. <br/>Since every project is unique, we assess the timeframe individually and collaborate with our clients to create a schedule that meets their needs.</div></div></nav></div><div data-delay="0" data-hover="false" data-w-id="b7dd13ed-6b17-75b4-c686-785acd72fa00" class="accordion_item w-dropdown"><div class="accordion_label w-dropdown-toggle"><div class="accordion_label-text"><div>Is Webflow superior to other CMS?</div></div><div class="accordion_icon-wrap"><div class="accordion_icon"><div class="accordion_icon-bar-1"></div><div class="accordion_icon-bar-2"></div></div></div><div class="accordion_border-track"><div class="accordion_border"></div></div></div><nav class="accordion_details w-dropdown-list"><div class="accordion_details-text"><div>Webflow offers a comprehensive CMS without the need for third-party themes or plugins, offering features like swift development, exceptional interaction, and stunning animations, along with significant loading speed and smooth operations.</div></div></nav></div><div data-delay="0" data-hover="false" data-w-id="b7dd13ed-6b17-75b4-c686-785acd72fa0f" class="accordion_item w-dropdown"><div class="accordion_label w-dropdown-toggle"><div class="accordion_label-text"><div>What differentiates Flowfye from other online advertising companies?</div></div><div class="accordion_icon-wrap"><div class="accordion_icon"><div class="accordion_icon-bar-1"></div><div class="accordion_icon-bar-2"></div></div></div><div class="accordion_border-track"><div class="accordion_border"></div></div></div><nav class="accordion_details w-dropdown-list"><div class="accordion_details-text"><div>Flowfye is a Webflow company that specializes in team organization, visual identity development, marketing strategies, and Webflow building, ensuring effective collaboration between project managers, designers, and developers.</div></div></nav></div><div data-delay="0" data-hover="false" data-w-id="b7dd13ed-6b17-75b4-c686-785acd72fa1e" class="accordion_item w-dropdown"><div class="accordion_label w-dropdown-toggle"><div class="accordion_label-text"><div>Does Flowfye ensure whether it manages responsiveness on tablets and smartphones?</div></div><div class="accordion_icon-wrap"><div class="accordion_icon"><div class="accordion_icon-bar-1"></div><div class="accordion_icon-bar-2"></div></div></div><div class="accordion_border-track"><div class="accordion_border"></div></div></div><nav class="accordion_details w-dropdown-list"><div class="accordion_details-text"><div>We use Webflow&#x27;s cascading responsiveness to provide similar functionality across desktop and mobile to adjust the templates consistently across all platforms. This strategy produces exceptional outcomes for more than 95 percent of our clients.However, if you want certain functionality across media, we will need to design a responsive section based on your specifications.</div></div></nav></div><div data-delay="0" data-hover="false" data-w-id="b7dd13ed-6b17-75b4-c686-785acd72fa2d" class="accordion_item w-dropdown"><div class="accordion_label w-dropdown-toggle"><div class="accordion_label-text"><div>How is Flowfye different from Freelance Webflow developers?</div></div><div class="accordion_icon-wrap"><div class="accordion_icon"><div class="accordion_icon-bar-1"></div><div class="accordion_icon-bar-2"></div></div></div><div class="accordion_border-track"><div class="accordion_border"></div></div></div><nav class="accordion_details w-dropdown-list"><div class="accordion_details-text"><div>Flowfye offers a personalized, dedicated team of high-quality Webflow designers, developers, business experts, and project managers, ensuring timely and efficient work for clients, unlike freelance webflow developers who may not meet specific project needs.</div></div></nav></div><div data-delay="0" data-hover="false" data-w-id="b7dd13ed-6b17-75b4-c686-785acd72fa3c" class="accordion_item w-dropdown"><div class="accordion_label w-dropdown-toggle"><div class="accordion_label-text"><div>How many pricing plans do you have?</div></div><div class="accordion_icon-wrap"><div class="accordion_icon"><div class="accordion_icon-bar-1"></div><div class="accordion_icon-bar-2"></div></div></div><div class="accordion_border-track"><div class="accordion_border"></div></div></div><nav class="accordion_details w-dropdown-list"><div class="accordion_details-text"><div>Flowfye offers <strong>three flexible pricing options</strong> to fit different needs:<br/><br/>Pro Customization<strong> </strong>– A fixed-price package, perfect for fast adjustments, perfect for turning a pre-built template into your own.<br/><br/>Premium Customization – designed for businesses that need a complete revamp, advanced customization, and added features like custom integrations.<br/><br/>Hourly Packages – Flexible hourly-based support starting at $40hour, available in multiple hour blocks for ongoing or custom needs.<br/><br/>Each plan comes with dedicated support from Flowfye’s Webflow developers, UI/UX designers, and project managers.</div></div></nav></div><div data-delay="0" data-hover="false" data-w-id="b7dd13ed-6b17-75b4-c686-785acd72fa54" class="accordion_item w-dropdown"><div class="accordion_label w-dropdown-toggle"><div class="accordion_label-text"><div>What can I do if my question is still not answered?</div></div><div class="accordion_icon-wrap"><div class="accordion_icon"><div class="accordion_icon-bar-1"></div><div class="accordion_icon-bar-2"></div></div></div><div class="accordion_border-track"><div class="accordion_border"></div></div></div><nav class="accordion_details w-dropdown-list"><div class="accordion_details-text"><div>Simply send an email to hello@flowfye.com and we&#x27;ll gladly answer the question you have!</div></div></nav></div></div></div></div></div></section><section class="section_cta"><div class="cta_bg_blur"><div class="bg_blur_offset"><div class="bg_blur_green"></div><div class="bg_blur_yellow"></div></div></div><div class="section-padding"><div class="container"><div class="cta_component"><div class="margin-bottom margin-40px"><h2 class="heading-custom-h1"><div class="cta_heading_wrapper"><div class="heading-mask"><div data-w-id="1bb652a5-1d61-03e7-96ca-da74185f760a" class="heading-animate _1"><div class="cta_heading_1">Ready to Build</div></div></div><div class="heading-mask"><div data-w-id="1bb652a5-1d61-03e7-96ca-da74185f760e" class="heading-animate _2"><div class="cta_heading_2">Together?</div></div></div></div></h2></div><div class="cta_wrapper"><div data-w-id="1bb652a5-1d61-03e7-96ca-da74185f7612" class="cta_button-container"><div class="button-container"><a href="https://cal.com/flowfye/30min" target="_blank" class="button is-primary w-inline-block"><div class="button-text">Get in touch</div></a></div></div></div></div></div></div><div class="cta_marquee-container"><div data-w-id="1bb652a5-1d61-03e7-96ca-da74185f7618" class="cta_marquee_content"><div data-w-id="1bb652a5-1d61-03e7-96ca-da74185f7619" class="cta_marquee_text-wrapper"><div class="cta_marquee_text"><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div></div></div><div data-w-id="1bb652a5-1d61-03e7-96ca-da74185f7633" class="cta_marquee_text-wrapper"><div class="cta_marquee_text"><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div></div></div></div><div data-w-id="1bb652a5-1d61-03e7-96ca-da74185f764d" class="cta_marquee_content is-second"><div class="cta_marquee_text-wrapper"><div class="cta_marquee_text"><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div></div></div><div class="cta_marquee_text-wrapper"><div class="cta_marquee_text"><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! </div><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88f_%E2%98%BA.png" alt="" class="cta_marquee_icon"/></div><div class="marquee-text"><div>THANK YOU FOR YOUR VISIT! ©</div></div></div></div></div></div></section></main><footer data-w-id="e2f4964c-aa41-7144-91bb-53f2db0bcf09" class="section_footer"><div class="section-padding footer"><div class="container"><div class="footer_component"><div class="footer_info"><div class="footer_info_details"><div class="footer_brand"><a href="/" aria-current="page" class="footer_logo w-inline-block w--current"><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/686b73eb055df95b765ea88e_Group.svg" alt="Brand"/></a></div><a data-w-id="e2f4964c-aa41-7144-91bb-53f2db0bcf14" href="mailto:hello@flowfye.com?subject=User%20of%20Flowfye" class="footer_mail_address w-inline-block"><div class="text-border-bottom">hello@flowfye.com</div><div class="link_custom-border"></div></a></div><div class="footer_socials"><div class="social_icons"><a href="https://www.facebook.com/flowfye" target="_blank" class="social_link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24" fill="none"><path d="M22 12C22 6.48 17.52 2 12 2C6.48 2 2 6.48 2 12C2 16.84 5.44 20.87 10 21.8V15H8V12H10V9.5C10 7.57 11.57 6 13.5 6H16V9H14C13.45 9 13 9.45 13 10V12H16V15H13V21.95C18.05 21.45 22 17.19 22 12Z" fill="currentColor"></path></svg></a><a href="https://x.com/flowfyeagency" target="_blank" class="social_link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 25 25" fill="none"><path d="M20.9437 21.0792C20.8791 21.1968 20.7842 21.295 20.6688 21.3634C20.5533 21.4318 20.4217 21.468 20.2875 21.4683H15.7875C15.6612 21.4682 15.5371 21.4363 15.4265 21.3755C15.3158 21.3147 15.2224 21.227 15.1547 21.1204L11.3587 15.1551L5.84247 21.2226C5.708 21.3671 5.52201 21.4527 5.32483 21.461C5.12765 21.4692 4.93516 21.3994 4.78911 21.2666C4.64306 21.1339 4.55521 20.949 4.5446 20.7519C4.534 20.5548 4.6015 20.3615 4.73247 20.2139L10.5234 13.8389L4.65466 4.62139C4.58238 4.50799 4.54192 4.37725 4.53751 4.24284C4.5331 4.10844 4.56491 3.97533 4.62961 3.85744C4.6943 3.73955 4.78951 3.64122 4.90524 3.57276C5.02098 3.50429 5.153 3.4682 5.28747 3.46826H9.78747C9.9137 3.4683 10.0379 3.5002 10.1485 3.561C10.2591 3.6218 10.3526 3.70953 10.4203 3.81607L14.2162 9.78139L19.7325 3.71389C19.8669 3.56944 20.0529 3.48381 20.2501 3.47557C20.4473 3.46733 20.6398 3.53715 20.7858 3.66988C20.9319 3.80261 21.0197 3.98756 21.0303 4.18463C21.0409 4.3817 20.9734 4.575 20.8425 4.72264L15.0515 11.0929L20.9203 20.3161C20.9922 20.4295 21.0323 20.5602 21.0364 20.6944C21.0405 20.8287 21.0085 20.9616 20.9437 21.0792Z" fill="currentColor"></path></svg></a><a href="https://www.instagram.com/flowfye.agency" target="_blank" class="social_link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24" fill="none"><g opacity="0.8"><path d="M16.3748 3.2498C18.788 3.25684 20.7427 5.21152 20.7502 7.62512V16.3748H20.7497C20.7422 18.7879 18.7875 20.7426 16.3739 20.7496H7.62422C5.21063 20.7421 3.25594 18.7875 3.24891 16.3743V7.62465V7.62418C3.25594 5.21059 5.21063 3.2559 7.62422 3.24887H16.3739L16.3748 3.2498ZM16.3739 1.49902H7.62375C4.25485 1.49902 1.4986 4.25527 1.4986 7.62418V16.3739C1.4986 19.7428 4.25485 22.499 7.62375 22.499H16.3734C19.7423 22.499 22.4986 19.7428 22.4986 16.3739V7.62418C22.4986 4.25527 19.7423 1.49902 16.3734 1.49902H16.3739Z" fill="currentColor"></path><path d="M17.6873 7.62552L17.6868 7.62547C16.9617 7.625 16.3743 7.03766 16.3743 6.3125C16.3743 5.58734 16.9617 5 17.6868 5C18.4115 5 18.9993 5.58734 18.9989 6.3125L18.9984 6.31203C18.9998 7.03531 18.4148 7.62266 17.6915 7.62453C17.6892 7.62453 17.6873 7.62453 17.6854 7.62453L17.6873 7.62552ZM12 8.5002H11.9995C13.9322 8.49973 15.4997 10.0672 15.4997 11.9999C15.4997 13.9325 13.9322 15.5 11.9995 15.5C10.0664 15.5 8.49934 13.9325 8.49887 11.9999H8.4984C8.50028 10.0672 10.0659 8.50161 11.9981 8.49927L12 8.5002ZM11.9981 6.74942H11.9976C9.09793 6.74942 6.74762 9.09973 6.74762 11.9994C6.74762 14.8986 9.09793 17.2494 11.9976 17.249C14.8968 17.2485 17.2476 14.8982 17.2472 11.9985C17.2472 9.0988 14.8964 6.74848 11.9972 6.74848L11.9981 6.74942Z" fill="currentColor"></path></g></svg></a><a href="https://dribbble.com/flowfye_agency" target="_blank" class="social_link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24" fill="none"><g opacity="0.8"><path d="M12 1.5C6.20297 1.5 1.5 6.20297 1.5 12C1.5 17.797 6.20297 22.5 12 22.5C17.797 22.5 22.5 17.8022 22.5 12C22.5 6.19781 17.797 1.5 12 1.5ZM18.6666 6.33984C19.8811 7.76766 20.6044 9.54891 20.7291 11.4202C18.8367 11.3217 16.5727 11.3217 14.7572 11.4914C14.5275 10.9116 14.2922 10.343 14.0353 9.79594C16.1288 8.88844 17.7422 7.69594 18.6666 6.33984ZM12 3.24984V3.24937C14.0391 3.24563 16.0153 3.95813 17.5837 5.26219C16.6322 6.465 15.1392 7.51219 13.2797 8.3025C12.262 6.42094 11.0916 4.80234 9.84328 3.52781H9.84281C10.5469 3.34594 11.2711 3.25219 11.9986 3.24844L12 3.24984ZM8.04047 4.20703C9.30375 5.46469 10.4906 7.06641 11.5298 8.94141C9.55547 9.54469 7.29141 9.89062 4.875 9.89062C4.41563 9.89062 3.9675 9.87422 3.52453 9.84656H3.52406C4.14703 7.40391 5.79281 5.34891 8.03953 4.20703H8.04047ZM3.26625 11.5842C3.76406 11.6062 4.26703 11.617 4.77562 11.6119C7.53187 11.5791 10.0969 11.1469 12.3009 10.44C12.5088 10.8722 12.7056 11.3152 12.8916 11.7689H12.8911C12.6244 11.827 12.3628 11.9053 12.1088 12.0033C9.09563 13.2689 6.72234 15.3084 5.43703 17.775C4.0275 16.1813 3.24937 14.1272 3.24891 12C3.24891 11.8594 3.25453 11.7211 3.26531 11.5842H3.26625ZM12 20.7502V20.7497C10.0556 20.752 8.16703 20.1028 6.63516 18.9066C7.8 16.5989 9.87797 14.6878 12.4978 13.5033C12.7439 13.3884 13.072 13.2956 13.4494 13.2136C13.7619 14.0773 14.0408 14.9742 14.2861 15.9042L14.2856 15.9037C14.6517 17.3072 14.9217 18.7341 15.0933 20.1745H15.0928C14.1052 20.5528 13.0566 20.7473 11.9991 20.7483L12 20.7502ZM16.7306 19.3556C16.5591 17.8997 16.2867 16.4583 15.9155 15.0408C15.728 14.3297 15.5166 13.6406 15.2869 12.968C17.0039 12.8273 19.0603 12.8475 20.6953 12.968H20.6948C20.4028 15.5855 18.9464 17.932 16.7297 19.3552L16.7306 19.3556Z" fill="currentColor"></path></g></svg></a><a href="https://www.behance.net/flowfye" target="_blank" class="social_link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24" fill="none"><g opacity="0.8"><path d="M16.1297 10.9502C14.775 10.9502 14.5875 12.3002 14.5875 12.3002H17.4656C17.4656 12.3002 17.4844 10.9502 16.1297 10.9502ZM9.59999 12.3002H7.04999V14.6439H9.47343C9.83905 14.6346 10.5234 14.5314 10.5234 13.5049C10.5234 12.2861 9.59999 12.3002 9.59999 12.3002Z" fill="currentColor"></path><path d="M12 1.5C6.20156 1.5 1.5 6.20156 1.5 12C1.5 17.7984 6.20156 22.5 12 22.5C17.7984 22.5 22.5 17.7984 22.5 12C22.5 6.20156 17.7984 1.5 12 1.5ZM14.2125 7.95H17.8266V9.02813H14.2125V7.95ZM12.3844 13.6125C12.3844 16.2844 9.6 16.2 9.6 16.2H5.04375V7.43438H9.6C10.9875 7.43438 12.0797 8.19844 12.0797 9.76875C12.0797 11.3391 10.7437 11.4375 10.7437 11.4375C12.5062 11.4375 12.3844 13.6125 12.3844 13.6125ZM19.1437 13.4672H14.6016C14.6016 15.0937 16.1437 14.9906 16.1437 14.9906C17.6016 14.9906 17.55 14.0484 17.55 14.0484H19.0922C19.0922 16.5516 16.0922 16.3781 16.0922 16.3781C12.4969 16.3781 12.7266 13.0266 12.7266 13.0266C12.7266 13.0266 12.7219 9.66094 16.0922 9.66094C19.6406 9.66563 19.1437 13.4672 19.1437 13.4672Z" fill="currentColor"></path><path d="M10.2187 9.90449C10.2187 8.99512 9.59999 8.99512 9.59999 8.99512H7.04999V10.9498H9.44061C9.85311 10.9498 10.2187 10.8139 10.2187 9.90449Z" fill="currentColor"></path></g></svg></a></div><div class="footer_pertner-badge"><a href="https://webflow.com/@flowfye" target="_blank" class="footer_partner w-inline-block"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/6883025f70eb83dbe43c51d8_webflow-certified-partner.svg" loading="lazy" alt="" class="image-responsive"/></a></div></div></div><div class="footer_links"><div class="footer_links_column-wrap"><div class="footer_link_column"><div class="footer_link_heading"><h3 class="footer_column_title">Services</h3></div><div class="footer_link_wrapper"><a href="/services#webflow-development" class="footer_link-item w-inline-block"><div class="footer_link-text">Webflow Development</div><div class="link_custom-border footer-mobile"></div></a><a href="/services/#ui-ux-design" class="footer_link-item w-inline-block"><div class="footer_link-text">UI/UX Design</div><div class="link_custom-border footer-mobile"></div></a><a href="/services/#theme-customization" class="footer_link-item w-inline-block"><div class="footer_link-text">Theme Customization</div><div class="link_custom-border footer-mobile"></div></a><a href="/services/#platform-migration" class="footer_link-item w-inline-block"><div class="footer_link-text">Platform Migration</div><div class="link_custom-border footer-mobile"></div></a><a href="/services/#seo" class="footer_link-item w-inline-block"><div class="footer_link-text">Maintenance &amp; SEO</div><div class="link_custom-border footer-mobile"></div></a><a href="/pricing" class="footer_link-item w-inline-block"><div class="footer_link-text">Pricing</div><div class="link_custom-border footer-mobile"></div></a></div></div><div class="footer_link_column"><div class="footer_link_heading"><h3 class="footer_column_title">Templates</h3></div><div class="footer_link_wrapper"><div class="w-dyn-list"><div role="list" class="footer_link_wrapper w-dyn-items"><div role="listitem" class="w-dyn-item"><a href="/templates/flexfye" class="footer_link-item w-inline-block"><div class="footer_link-text">Flexfye</div><div class="link_custom-border footer-mobile"></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/oceanfye" class="footer_link-item w-inline-block"><div class="footer_link-text">Oceanfye</div><div class="link_custom-border footer-mobile"></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/novatra" class="footer_link-item w-inline-block"><div class="footer_link-text">Novatra</div><div class="link_custom-border footer-mobile"></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/smilifye" class="footer_link-item w-inline-block"><div class="footer_link-text">Smilifye</div><div class="link_custom-border footer-mobile"></div></a></div><div role="listitem" class="w-dyn-item"><a href="/templates/strivy" class="footer_link-item w-inline-block"><div class="footer_link-text">Strivy</div><div class="link_custom-border footer-mobile"></div></a></div></div></div></div></div><div class="footer_link_column mobile-block"><div class="footer_link_heading"><h3 class="footer_column_title">Location</h3></div><div class="footer_link_wrapper address_block"><address class="footer_address_block"><h4 class="footer-address-block-heading">United States</h4><div>30 N Gould St Ste R <br/>Sheridan, WY 82801<br/></div><a href="tel:+13074591578" class="footer_link-item w-inline-block"><div class="footer_link-text">+1 307 459 1578</div><div class="link_custom-border footer-mobile"></div></a></address><address class="footer_address_block"><h4 class="footer-address-block-heading">Bangladesh</h4><div>2/1A, Post Office Road, Mirpur-11, Dhaka-1216</div><a href="tel:+8801737197351" class="footer_link-item w-inline-block"><div class="footer_link-text">+880 9611 656798</div><div class="link_custom-border footer-mobile"></div></a></address></div></div></div><div class="footer_brands"><div class="footer_info-title">Our Brand</div><div class="footer_brands-images"><a href="https://reestify.com/" target="_blank" class="footer_brands-image w-inline-block"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68831167c973f6a5114b231c_Reestify.png" loading="lazy" alt=""/></a><a href="/" aria-current="page" class="footer_brands-image w-inline-block w--current"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/6889a274fc358376ae71c038_flowfye-logo.svg" loading="lazy" alt=""/></a><a href="https://www.pagifye.com" target="_blank" class="footer_brands-image w-inline-block"><img src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/6883116779950fefb43f7728_Pagifye.png" loading="lazy" alt=""/></a></div></div></div></div></div></div><div class="footer_bottom"><div class="container"><div class="footer_bottom_component"><div class="footer_bottom_copyright"><div>All Copyright </div><div id="year">2023 </div><div>Flowfye</div></div><div class="footer-bottom-link"><a href="/privacy-policy" class="footer_link-item w-inline-block"><div>Privacy Policy</div><div class="link_custom-border"></div></a><div>•</div><a href="/terms-conditions" class="footer_link-item w-inline-block"><div class="footer_link-text">Terms &amp; Conditions</div><div class="link_custom-border"></div></a></div></div></div></div></footer><div class="custom-cursor_wrapper"><div class="custom-cursor"><img loading="lazy" src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/68830aa8c9f50888ef65f3f8_arrow-gradient.svg" alt="" class="arrow-gradient"/></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6865ff610a69a82ad5ef5137" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/js/webflow.schunk.36b8fb49256177c8.js" type="text/javascript" integrity="sha384-4abIlA5/v7XaW1HMXKBgnUuhnjBYJ/Z9C1OSg4OhmVw9O3QeHJ/qJqFBERCDPv7G" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/js/webflow.schunk.6606967b9b38ea81.js" type="text/javascript" integrity="sha384-IuAXsGF2tBENp0GXwaiNrrJTxcL7C8belUpFWq85fAJcGcRv5DP88DjzMkhQ57tb" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6865ff610a69a82ad5ef5137/js/webflow.9498ee70.5e3910e3b3ac38f8.js" type="text/javascript" integrity="sha384-b/eU+eZwi8+fin5UU8myG37GM/IgY0cSF/laXjChRmmIn4ZWkmmjI+NehkCHeF54" crossorigin="anonymous"></script><!-- navigation scroll handle -->
+<script>
+
+    const nav = document.querySelector('.navigation');
+
+    // Set initial state
+    let isSticky = false;
+    let isHidden = false;
+    let isAtTop = false;
+    let shouldAddDelay = false; // New flag
+    let lastScrollPos = window.scrollY;
+
+    // Function to handle scroll events
+    function handleScroll() {
+        const scrollPos = window.scrollY;
+
+        // Check if scrolling down
+        if (scrollPos > lastScrollPos && !isHidden) {
+            isHidden = true;
+            isSticky = false;
+            isAtTop = false;
+            shouldAddDelay = true; // Reset the flag
+            animateNav();
+        }
+
+        // Check if scrolling up
+        if (scrollPos < lastScrollPos && isHidden && scrollPos >= 500) {
+            isHidden = false;
+            isSticky = true;
+            isAtTop = false;
+            shouldAddDelay = true; // Reset the flag
+            animateNav();
+        }
+
+        // Check if at the top
+        if (scrollPos < 500) {
+            isSticky = false;
+            isHidden = false;
+            isAtTop = true;
+            shouldAddDelay = false; // Set the flag
+            animateNav();
+        }
+
+        lastScrollPos = scrollPos;
+    }
+
+    // Function to animate the navigation
+    function animateNav() {
+        const translateY = isHidden ? '-100%' : '0%';
+        const transformValue = `translateY(${translateY})`;
+
+        if (isAtTop) {
+            nav.style.position = 'relative';
+            nav.style.transition = '';
+            nav.style.backgroundColor = 'transparent';
+            nav.classList.remove('isSticky'); // Remove the class if not sticky
+        } else if (isHidden) {
+            nav.style.transition = 'transform 0.5s ease-out';
+            nav.style.backgroundColor = '#172b1d';
+            nav.classList.remove('isSticky'); // Remove the class if not sticky
+
+            if (shouldAddDelay) {
+                setTimeout(() => {
+                    nav.style.position = 'relative';
+                    nav.style.transition = '';
+                    nav.style.top = '0';
+                }, 500);
+            } else {
+                nav.style.position = 'relative';
+                nav.style.transition = '';
+            }
+        } else if (isSticky) {
+            nav.style.position = 'sticky';
+            nav.style.top = '0';
+            nav.style.transition = 'transform 0.5s ease-out';
+            nav.style.backgroundColor = '#172b1d';
+            nav.classList.add('isSticky'); // Add the class if sticky
+        }
+
+        nav.style.transform = transformValue;
+    }
+
+    // Add scroll event listener
+    window.addEventListener('scroll', handleScroll);
+
+    // Initial call to set styles based on the initial state
+    handleScroll();
+
+    window.addEventListener('load', handleScrollOnLoad);
+
+    function handleScrollOnLoad() {
+        if (window.scrollY > 500) {
+            nav.style.position = 'sticky';
+            nav.style.top = '0';
+            nav.style.transition = 'transform 0.5s ease-out';
+            nav.style.backgroundColor = '#172b1d';
+            nav.classList.add('isSticky');
+        }
+    }
+
+</script>
+  
+  
+<!-- button fill on hover animation -->
+<script>
+// Button fill on hover
+    $(function () {
+      $(".button").each(function () {
+        var button = $(this);
+        var animElement = button.find(".fill");
+
+        if (animElement.length === 0) {
+          // If the ".fill" element doesn't exist, create it
+          button.append('<div class="fill"></div>');
+          animElement = button.find(".fill");
+        }
+
+        button
+          .on("mouseenter", function (e) {
+            var parentOffset = button.offset(),
+              relX = e.pageX - parentOffset.left,
+              relY = e.pageY - parentOffset.top;
+            gsap.set(animElement, { css: { top: relY, left: relX } });
+          })
+          .on("mouseout", function (e) {
+            var parentOffset = button.offset(),
+              relX = e.pageX - parentOffset.left,
+              relY = e.pageY - parentOffset.top;
+            gsap.set(button.find(".fill"), { css: { top: relY, left: relX } });
+          });
+      });
+    });  
+</script>
+
+  
+<!-- custom cursor script -->
+  
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+  const customCursor = document.querySelector('.custom-cursor');
+  if (!customCursor) {
+    console.warn('Custom cursor element with class ".custom-cursor" not found.');
+    return;
+  }
+
+  const animationOptions = {
+    duration: 300,
+    easing: 'ease-in-out',
+    fill: 'forwards',
+  };
+
+  const expandKeyframes = [
+    { width: '15px', height: '15px', opacity: 1 },
+    { width: '48px', height: '48px', opacity: 0 }
+  ];
+
+  const shrinkKeyframes = [
+    { width: '48px', height: '48px', opacity: 0 },
+    { width: '15px', height: '15px', opacity: 1 }
+  ];
+
+  const expandDimensionsKeyframes = [
+    { width: '15px', height: '15px'},
+    { width: '80px', height: '80px'}
+  ];
+
+  function expandCursor({ dimensions = false } = {}) {
+    if (dimensions) {
+      customCursor.animate(expandDimensionsKeyframes, animationOptions);
+      customCursor.style.margin = '-40px 0 0 -40px';
+    } else {
+      customCursor.animate(expandKeyframes, animationOptions);
+    }
+  }
+
+  function shrinkCursor({ dimensions = false } = {}) {
+    customCursor.animate(shrinkKeyframes, animationOptions);
+    if (dimensions) {
+      customCursor.style.margin = '-7.5px 0 0 -7.5px';
+    }
+  }
+
+  // Event Delegation for general hover targets
+  document.addEventListener('mouseover', (e) => {
+    const target = e.target.closest('a:not(.feature_templates_card):not(.templates_card), button:not(.template-item):not(.templates_card), .w-dropdown:not(.templates_card), .horizontal-item:not(.templates_card), input, .file-upload, .form_input_block, textarea');
+    if (target) expandCursor();
+  });
+
+  document.addEventListener('mouseout', (e) => {
+    const target = e.target.closest('a:not(.feature_templates_card):not(.templates_card), button:not(.template-item):not(.templates_card), .w-dropdown:not(.templates_card), .horizontal-item:not(.templates_card), input, .file-upload, .form_input_block, textarea');
+    if (target) shrinkCursor();
+  });
+
+  // Event Delegation for feature/template cards
+  document.addEventListener('mouseover', (e) => {
+    const card = e.target.closest('.feature_templates_card, .templates_card');
+    if (!card) return;
+
+    customCursor.classList.add('hovered');
+    expandCursor({ dimensions: true });
+
+    const arrowGradient = customCursor.querySelector('.arrow-gradient');
+    if (arrowGradient) {
+      arrowGradient.style.display = 'block';
+      arrowGradient.animate([{ opacity: 0 }, { opacity: 1 }], {
+        duration: 300,
+        easing: 'ease-in-out',
+        fill: 'forwards'
+      });
+    }
+  });
+
+  document.addEventListener('mouseout', (e) => {
+    const card = e.target.closest('.feature_templates_card, .templates_card');
+    if (!card) return;
+
+    customCursor.classList.remove('hovered');
+    shrinkCursor({ dimensions: true });
+
+    const arrowGradient = customCursor.querySelector('.arrow-gradient');
+    if (arrowGradient) {
+      arrowGradient.animate([{ opacity: 1 }, { opacity: 0 }], {
+        duration: 300,
+        easing: 'ease-in-out',
+        fill: 'forwards'
+      });
+      arrowGradient.style.display = 'none';
+    }
+  });
+
+  // Shrink cursor on scroll unless hovered
+  window.addEventListener('scroll', () => {
+    if (!customCursor.classList.contains('hovered')) {
+      customCursor.style.width = '15px';
+      customCursor.style.height = '15px';
+      customCursor.style.margin = '-7.5px 0 0 -7.5px';
+    }
+  });
+});
+
+// On DOM load, scroll to #services section if in URL
+document.addEventListener('DOMContentLoaded', () => {
+  const url = window.location.href;
+  if (url.includes('/services#')) {
+    const id = window.location.hash.replace('#', '');
+    handleScrollToServices(id.toLocaleLowerCase());
+  }
+
+  function handleScrollToServices(id) {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth' });
+    } else {
+      console.warn(`Element with id "${id}" not found.`);
+    }
+  }
+});
+</script>
+
+<!-- update year on the footer -->
+<script>
+	const theYearElement = document.getElementById('year');
+	theYearElement.textContent = new Date().getFullYear();
+</script>
+
+
+<script type="module">
+  import { tsParticles } from "https://cdn.jsdelivr.net/npm/@tsparticles/engine@3.1.0/+esm";
+  import { loadAll } from "https://cdn.jsdelivr.net/npm/@tsparticles/all@3.1.0/+esm";
+
+  async function loadParticles(options) {
+    await loadAll(tsParticles);
+    await tsParticles.load({ id: "tsparticles", options });
+  }
+
+  const configs = {
+    fullScreen: false,
+    fpsLimit: 120,
+    particles: {
+      number: {
+        value: 1200,
+        density: {
+          enable: true,
+        },
+      },
+      color: {
+        value: [
+          "#ffffff",
+          "#FF0000",
+          "#FFFF00",
+          "#00FF00",
+          "#0000FF",
+          "#FF00FF",
+        ],
+      },
+      shape: {
+        type: ["circle", "square", "triangle", "star"],
+      },
+      opacity: {
+        value: 0.8,
+      },
+      size: {
+        value: { min: 1, max: 4 },
+      },
+      move: {
+        enable: true,
+        speed: 4,
+        direction: "bottom",
+        outModes: {
+          default: "out",
+        },
+        gravity: {
+          enable: false,
+          acceleration: 0.1,
+        },
+        random: true,
+        straight: false,
+      },
+    },
+    detectRetina: true,
+  };
+
+  // ✅ Only run if #tsparticles exists
+  if (document.getElementById("tsparticles")) {
+    loadParticles(configs);
+  }
+</script>
+
+
+
+
+
+<!-- script for hiding border on hover over project details -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const projectItems = document.querySelectorAll('.projects_item');
+
+  // Store initial display states for all project items' borders
+  const initialStates = new Map();
+  projectItems.forEach((item, index) => {
+    const border = item.querySelector('.project_custom-border');
+    const title = item.querySelector('.project_item_title-text')?.textContent || `Item ${index + 1}`;
+    initialStates.set(item, {
+      border: border ? getComputedStyle(border).display : null,
+      title: title
+    });
+  });
+
+  projectItems.forEach((item, index) => {
+    const title = initialStates.get(item).title;
+
+    item.addEventListener('mouseenter', () => {
+      // Hide border of current item
+      const border = item.querySelector('.project_custom-border');
+      if (border) {
+        border.style.display = 'none';
+      }
+
+      // Find and hide border of previous sibling
+      const prevSibling = item.previousElementSibling;
+      if (prevSibling && prevSibling.classList.contains('projects_item')) {
+        const prevBorder = prevSibling.querySelector('.project_custom-border');
+        if (prevBorder) {
+          prevBorder.style.display = 'none';
+        }
+      }
+    });
+
+    item.addEventListener('mouseleave', () => {
+      // Restore border of current item
+      const border = item.querySelector('.project_custom-border');
+      if (border) {
+        const initialDisplay = initialStates.get(item).border;
+        border.style.display = initialDisplay || '';
+      }
+
+      // Restore border of previous sibling
+      const prevSibling = item.previousElementSibling;
+      if (prevSibling && prevSibling.classList.contains('projects_item')) {
+        const prevBorder = prevSibling.querySelector('.project_custom-border');
+        if (prevBorder) {
+          const prevInitialDisplay = initialStates.get(prevSibling).border;
+          prevBorder.style.display = prevInitialDisplay || '';
+        }
+      }
+    });
+  });
+});
+</script>
+
+<!-- script for hiding border on hover over about item -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const aboutItems = document.querySelectorAll('.about_main-item');
+
+  // Store initial opacity states for all about items' borders
+  const initialStates = new Map();
+  aboutItems.forEach((item, index) => {
+    const border = item.querySelector('.about_custom-border');
+    const title = item.querySelector('.about_item_title-text')?.textContent || `Item ${index + 1}`;
+    initialStates.set(item, {
+      border: border ? getComputedStyle(border).opacity : null,
+      title: title
+    });
+  });
+
+  aboutItems.forEach((item, index) => {
+    const title = initialStates.get(item).title;
+
+    item.addEventListener('mouseenter', () => {
+      // Hide border of current item
+      const border = item.querySelector('.about_custom-border');
+      if (border) {
+        border.style.opacity = '0';
+      }
+
+      // Find and hide border of previous sibling
+      const prevSibling = item.previousElementSibling;
+      if (prevSibling && prevSibling.classList.contains('about_main-item')) {
+        const prevBorder = prevSibling.querySelector('.about_custom-border');
+        if (prevBorder) {
+          prevBorder.style.opacity = '0';
+        }
+      }
+    });
+
+    item.addEventListener('mouseleave', () => {
+      // Restore border of current item
+      const border = item.querySelector('.about_custom-border');
+      if (border) {
+        const initialopacity = initialStates.get(item).border;
+        border.style.opacity = initialopacity || '';
+      }
+
+      // Restore border of previous sibling
+      const prevSibling = item.previousElementSibling;
+      if (prevSibling && prevSibling.classList.contains('about_main-item')) {
+        const prevBorder = prevSibling.querySelector('.about_custom-border');
+        if (prevBorder) {
+          const prevInitialopacity = initialStates.get(prevSibling).border;
+          prevBorder.style.opacity = prevInitialopacity || '';
+        }
+      }
+    });
+  });
+});
+</script>
+
+
+<!-- template page: change selectbox text based on selection -->
+<script async>
+  // find #radio-paid 
+const radioPaid = document.getElementById('radio-paid');
+// find #radio-free
+const radioFree = document.getElementById('radio-free');
+
+// find #display
+const display = document.getElementById('display');
+
+// add event listener to radioPaid
+radioPaid?.addEventListener('change', () => {
+    if (radioPaid.checked) {
+        display.textContent = 'Paid';
+    }
+});
+
+// add event listener to radioFree
+radioFree?.addEventListener('change', () => {
+    if (radioFree.checked) {
+        display.textContent = 'Free';
+    }
+});
+</script>
+
+<script>
+const daysEl = document.getElementById("days");
+const hoursEl = document.getElementById("hours");
+const minutesEl = document.getElementById("minutes");
+const secondsEl = document.getElementById("seconds");
+
+const targetDate = new Date("Sep 27, 2025 23:59:59+06:00").getTime();
+
+function pad(num) {
+  return String(num).padStart(2, "0");
+}
+
+function updateCountdown() {
+  const now = Date.now();
+  const distance = targetDate - now;
+
+  if (distance <= 0) {
+    daysEl.textContent = "0";
+    hoursEl.textContent = "00";
+    minutesEl.textContent = "00";
+    secondsEl.textContent = "00";
+    clearInterval(timer);
+    return;
+  }
+
+  const totalSeconds = Math.floor(distance / 1000);
+  const days = Math.floor(totalSeconds / (3600 * 24));
+  const hours = Math.floor((totalSeconds % (3600 * 24)) / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+
+  daysEl.textContent = days;
+  hoursEl.textContent = pad(hours);
+  minutesEl.textContent = pad(minutes);
+  secondsEl.textContent = pad(seconds);
+}
+
+updateCountdown();
+const timer = setInterval(updateCountdown, 1000);
+</script>
+<!-- GSAP Horizontal Scroll and Video Playback Script -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // GSAP and ScrollTrigger setup
+        gsap.registerPlugin(ScrollTrigger);
+
+        const horizontalSection = document.querySelector(".horizontal-section");
+        let moveDistance;
+
+        function calculateScroll() {
+            const listElement = document.querySelector(".horizontal-section .list");
+            if (!listElement) return; // safeguard if not found
+
+            // Compute gap
+            const computedGap = parseFloat(getComputedStyle(listElement).gap || "0");
+
+            // Get all horizontal items
+            const horizontalItems = listElement.querySelectorAll(".horizontal-item");
+            const totalItems = horizontalItems.length;
+
+            // Total width of all items + gaps
+            let totalWidth = 0;
+            horizontalItems.forEach((item, index) => {
+                totalWidth += item.offsetWidth;
+                if (index < totalItems - 1) totalWidth += computedGap;
+            });
+
+            // Container (viewport) width
+            const containerWidth = listElement.parentElement.offsetWidth;
+
+            // Scroll distance needed to align last item flush with viewport
+            moveDistance = totalWidth - containerWidth;
+
+            // If content fits within viewport, no movement needed
+            if (moveDistance <= 0) {
+                moveDistance = 0;
+                horizontalSection.style.height = "100vh";
+            } else {
+                horizontalSection.style.height = "200vh";
+            }
+
+            // Set a min-height based on average item width
+            const averageItemWidth = totalWidth / totalItems;
+            const minHeight = 1.2 * averageItemWidth * totalItems;
+            horizontalSection.style.minHeight = minHeight + "px";
+
+            // Refresh ScrollTrigger on layout changes
+            ScrollTrigger.refresh();
+        }
+
+        // Run only after everything is loaded (images, fonts, etc.)
+        window.addEventListener("load", function () {
+            calculateScroll();
+            window.addEventListener("resize", calculateScroll);
+        });
+
+        // Create GSAP ScrollTrigger animation
+        const tl = gsap.timeline({
+            scrollTrigger: {
+                trigger: ".horizontal-section",
+                start: "top+=10vh top", // start when section’s top is 10vh below viewport top
+                end: "bottom top",
+                invalidateOnRefresh: true,
+                scrub: 1
+            }
+        });
+
+        // Animate the list horizontally by the computed moveDistance
+        tl.to(".horizontal-section .list", {
+            x: () => -moveDistance,
+            duration: 1
+        });
+
+        // Video playback control
+        const videoItems = document.querySelectorAll('.horizontal-item');
+        let activeMediaElement = null;
+
+        // Helper to reset a video to its initial state
+        const resetVideoState = (mediaElement) => {
+            if (!mediaElement) return;
+            const video = mediaElement.querySelector('.video-play');
+            const bg = mediaElement.querySelector('.testimonials_video-bg');
+            const playIcon = mediaElement.querySelector('.video_play');
+            const pauseIcon = mediaElement.querySelector('.video_pause');
+
+            if (video) {
+                video.pause();
+                video.currentTime = 0;
+            }
+            if (bg) bg.style.display = '';
+            if (playIcon) playIcon.style.display = 'flex';
+            if (pauseIcon) pauseIcon.style.display = 'none';
+        };
+
+        videoItems.forEach(item => {
+            const testimonialsMedia = item.querySelector('.testimonials_media');
+            if (!testimonialsMedia) return;
+
+            const videoPlay = testimonialsMedia.querySelector('.video-play');
+            if (!videoPlay) return;
+
+            const playVideo = () => {
+                if (activeMediaElement && activeMediaElement !== testimonialsMedia) {
+                    resetVideoState(activeMediaElement);
+                }
+
+                const playIcon = testimonialsMedia.querySelector('.video_play');
+                const pauseIcon = testimonialsMedia.querySelector('.video_pause');
+                const videoBg = testimonialsMedia.querySelector('.testimonials_video-bg');
+
+                if (videoBg) videoBg.style.display = 'none';
+                if (playIcon) playIcon.style.display = 'none';
+                if (pauseIcon) pauseIcon.style.display = 'flex';
+
+                videoPlay.play();
+                activeMediaElement = testimonialsMedia;
+            };
+
+            const resetThisVideo = () => {
+                resetVideoState(testimonialsMedia);
+                if (activeMediaElement === testimonialsMedia) {
+                    activeMediaElement = null;
+                }
+            };
+
+            testimonialsMedia.addEventListener('click', () => {
+                if (videoPlay.paused) {
+                    playVideo();
+                } else {
+                    resetThisVideo();
+                }
+            });
+
+            videoPlay.addEventListener('ended', resetThisVideo);
+        });
+    });
+</script>
+
+
+
+
+
+<!-- GSAP Horizontal Scroll and Video Playback Script -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // GSAP and ScrollTrigger setup
+        gsap.registerPlugin(ScrollTrigger);
+
+        const horizontalSection = document.querySelector(".horizontal-section");
+        let moveDistance;
+
+        function calculateScroll() {
+            const listElement = document.querySelector(".horizontal-section .list");
+            if (!listElement) return; // safeguard if not found
+
+            // Compute gap
+            const computedGap = parseFloat(getComputedStyle(listElement).gap || "0");
+
+            // Get all horizontal items
+            const horizontalItems = listElement.querySelectorAll(".horizontal-item");
+            const totalItems = horizontalItems.length;
+
+            // Total width of all items + gaps
+            let totalWidth = 0;
+            horizontalItems.forEach((item, index) => {
+                totalWidth += item.offsetWidth;
+                if (index < totalItems - 1) totalWidth += computedGap;
+            });
+
+            // Container (viewport) width
+            const containerWidth = listElement.parentElement.offsetWidth;
+
+            // Scroll distance needed to align last item flush with viewport
+            moveDistance = totalWidth - containerWidth;
+
+            // If content fits within viewport, no movement needed
+            if (moveDistance <= 0) {
+                moveDistance = 0;
+                horizontalSection.style.height = "100vh";
+            } else {
+                horizontalSection.style.height = "200vh";
+            }
+
+            // Set a min-height based on average item width
+            const averageItemWidth = totalWidth / totalItems;
+            const minHeight = 1.2 * averageItemWidth * totalItems;
+            horizontalSection.style.minHeight = minHeight + "px";
+
+            // Refresh ScrollTrigger on layout changes
+            ScrollTrigger.refresh();
+        }
+
+        // Run only after everything is loaded (images, fonts, etc.)
+        window.addEventListener("load", function () {
+            calculateScroll();
+            window.addEventListener("resize", calculateScroll);
+        });
+
+        // Create GSAP ScrollTrigger animation
+        const tl = gsap.timeline({
+            scrollTrigger: {
+                trigger: ".horizontal-section",
+                start: "top+=10vh top", // start when section’s top is 10vh below viewport top
+                end: "bottom top",
+                invalidateOnRefresh: true,
+                scrub: 1
+            }
+        });
+
+        // Animate the list horizontally by the computed moveDistance
+        tl.to(".horizontal-section .list", {
+            x: () => -moveDistance,
+            duration: 1
+        });
+
+        // Video playback control
+       document.addEventListener("DOMContentLoaded", function() {
+    const horizontalItems = document.querySelectorAll('.horizontal-item');
+    let activeMediaElement = null; // Tracks the container of the currently playing video
+
+    // Helper to reset a video to its initial state
+    const resetVideoState = (mediaElement) => {
+        if (!mediaElement) return;
+        const video = mediaElement.querySelector('.video-play');
+        const bg = mediaElement.querySelector('.testimonials_video-bg');
+        const playIcon = mediaElement.querySelector('.video_play');
+        const pauseIcon = mediaElement.querySelector('.video_pause');
+
+        if (video) {
+            video.pause();
+            video.currentTime = 0;
+        }
+        if (bg) {
+            bg.style.display = ''; // Revert to stylesheet default
+        }
+        // Set icon state to 'paused'
+        if (playIcon) playIcon.style.display = 'flex';
+        if (pauseIcon) pauseIcon.style.display = 'none';
+    };
+
+    horizontalItems.forEach(item => {
+        const testimonialsMedia = item.querySelector('.testimonials_media');
+        if (!testimonialsMedia) return; // Skip if no media container
+
+        const videoBg = testimonialsMedia.querySelector('.testimonials_video-bg');
+        const videoPlay = testimonialsMedia.querySelector('.video-play');
+        if (!videoPlay) return; // Skip if no video element
+
+        const playVideo = () => {
+            // If another video is playing, reset it first
+            if (activeMediaElement && activeMediaElement !== testimonialsMedia) {
+                resetVideoState(activeMediaElement);
+            }
+
+            // Find icons for the current video
+            const playIcon = testimonialsMedia.querySelector('.video_play');
+            const pauseIcon = testimonialsMedia.querySelector('.video_pause');
+
+            // Play the current video
+            if (videoBg) {
+                videoBg.style.display = 'none';
+            }
+            // Set icon state to 'playing'
+            if (playIcon) playIcon.style.display = 'none';
+            if (pauseIcon) pauseIcon.style.display = 'flex';
+
+            videoPlay.play();
+            activeMediaElement = testimonialsMedia; // Set this as the active one
+        };
+
+        const resetThisVideo = () => {
+            resetVideoState(testimonialsMedia);
+            // If this was the active video, clear the active state
+            if (activeMediaElement === testimonialsMedia) {
+                activeMediaElement = null;
+            }
+        };
+
+        testimonialsMedia.addEventListener('click', () => {
+            if (videoPlay.paused) {
+                playVideo();
+            } else {
+                resetThisVideo();
+            }
+        });
+
+        // Also reset when the video finishes playing on its own
+        videoPlay.addEventListener('ended', resetThisVideo);
+    });
+});
+</script>
+
+</body></html>

@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+vercel.log
+*.log
+
+# Env
+.env
+.env.local
+.env.production
+.vercel
+
+# Zips (keep direct zips out to save space, but keep one)
+*.zip
+!glowfye-shopify-direct.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
